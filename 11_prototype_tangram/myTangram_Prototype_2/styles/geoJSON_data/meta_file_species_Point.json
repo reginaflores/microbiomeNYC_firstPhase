@@ -1,0 +1,1557 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95665335264772,
+          40.73776138247046
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.053649999999999996,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Granulicella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89093463083172,
+          40.779703702342225
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.044966363636363638,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Agromyces_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84945740775831,
+          40.74067073523781
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.59924454545454531,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Curtobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93376381756084,
+          40.74841402340496
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Leifsonia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88260075057923,
+          40.74804944928618
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.045701818181818177,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Rothia_dentocariosa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91384600278568,
+          40.76737406530712
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.048975454545454551,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Rothia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90509044738832,
+          40.782659104200356
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Nocardioides_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93089523743257,
+          40.770921842939636
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.4513427272727273,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Propionibacterium_acnes"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93527007022101,
+          40.73220118385773
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 8.3468627272727289,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Bifidobacterium_asteroides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92183240156635,
+          40.76398982839338
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.014489090909090908,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Prevotella_disiens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95497953451955,
+          40.77463928328019
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.60234636363636362,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Hymenobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83529647968226,
+          40.72405742635076
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Chryseobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93121226777397,
+          40.77145699622417
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Riemerella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86798245782002,
+          40.740808938378514
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.94537181818181815,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pedobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89987957137328,
+          40.76163965534008
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Sphingobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93461167137741,
+          40.72590074641905
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.10791272727272726,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Microcoleus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94704378442815,
+          40.71748238062605
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Deinococcus_aquatilis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91546691864352,
+          40.774742788975075
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.13961818181818184,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Deinococcus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89900361102737,
+          40.78160222284639
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Bacillus_megaterium"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85695722105947,
+          40.75500587690454
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.35687909090909092,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Sporosarcina_newyorkensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87768606336768,
+          40.74061497128299
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.070300909090909094,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Staphylococcus_epidermidis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9277042379302,
+          40.72056382671074
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Carnobacterium_maltaromaticum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90963738557113,
+          40.743187788205745
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.012367272727272728,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Granulicatella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96570804130263,
+          40.75750740839429
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Enterococcus_casseliflavus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89184181893042,
+          40.75410849325119
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Fructobacillus_fructosus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86849284388681,
+          40.723583064879
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.061566363636363634,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Lactococcus_lactis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94963409792571,
+          40.771498940721905
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.1964272727272727,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Streptococcus_mitis_oralis_pneumoniae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95895014915735,
+          40.783269227953305
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.045622727272727273,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Finegoldia_magna"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96273724721284,
+          40.76582685352424
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Asticcacaulis_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91587270556889,
+          40.77434214839897
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Brevundimonas_diminuta"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83107232944151,
+          40.72815479587637
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Brevundimonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.876523983491,
+          40.774803012677935
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.046842727272727272,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Caulobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9280220984954,
+          40.731513611711456
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.10153909090909091,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Caulobacter_vibrioides"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85769181547523,
+          40.7803114233276
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Bartonella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86081496934692,
+          40.75362288299673
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 3.4846836363636369,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Bradyrhizobium_sp_DFCI_1"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96431848157943,
+          40.76737191002433
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.24805363636363637,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Mesorhizobium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91656290803712,
+          40.77341580857704
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Roseomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84148217701545,
+          40.77779571886506
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.56247090909090913,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Rickettsia_felis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84268991328052,
+          40.75398158406045
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.15867363636363635,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Rickettsia_parkeri"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87587092929435,
+          40.75876400692102
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.024545454545454547,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Sphingobium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93506032612534,
+          40.75135056513426
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 4.6724136363636362,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Sphingomonas_sp_S17"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94051113846348,
+          40.76758462697878
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Sphingopyxis_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88347148548726,
+          40.78563392330462
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Bordetella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87910355600854,
+          40.72561360498094
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.52478181818181813,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Burkholderia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94712078879846,
+          40.72701521708583
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.10975181818181819,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Thiomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95044220761763,
+          40.75257164717957
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.0281163636363635,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Acidovorax_ebreus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84676784161046,
+          40.72231441106104
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.57070545454545463,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Alicycliphilus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85944316113559,
+          40.74895221057867
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.070272727272727278,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Comamonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93625550857372,
+          40.72599004273997
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.092054545454545444,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Limnohabitans_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90143090001366,
+          40.75419380293636
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.12124181818181819,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Polaromonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90256807261709,
+          40.77087268600332
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.22039454545454545,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Variovorax_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92837325535531,
+          40.774226079070075
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.48972727272727268,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Verminephrobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83136894394717,
+          40.756059713516116
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.56877818181818185,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Janthinobacterium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90864290977105,
+          40.7677081222389
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.5715372727272729,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Massilia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.92915523657723,
+          40.754227514853355
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Methylophilus_methylotrophus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95017619075922,
+          40.773733447810656
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Methylophilus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.831090091366,
+          40.754345714870354
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.069271818181818171,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Neisseria_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94307657116912,
+          40.722807680827344
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Enterobacter_asburiae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93754053012849,
+          40.73094315870752
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.7078218181818179,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Enterobacter_cloacae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95748162295475,
+          40.759195193659174
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.12994181818181819,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Erwinia_tasmaniensis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85749650975474,
+          40.75252409529732
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.27700999999999998,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Escherichia_coli"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93862109916371,
+          40.77730397015751
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.4267545454545454,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Escherichia_hermannii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.95967490523174,
+          40.742921580701974
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.2032636363636366,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Escherichia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93737539199597,
+          40.740152091133986
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.28759818181818181,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Klebsiella_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93769086850703,
+          40.78663240649914
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.13314545454545454,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pantoea_agglomerans"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89536624328497,
+          40.77934996150753
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.047264545454545455,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pantoea_ananatis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87804491161037,
+          40.72198556014066
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 5.1159281818181821,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pantoea_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.88325568771371,
+          40.77655187413537
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.16475818181818183,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pantoea_vagans"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96064103238598,
+          40.77557550058728
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Providencia_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.90730785546901,
+          40.73008172746797
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Raoultella_ornithinolytica"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93970405227327,
+          40.74109891259519
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.27205636363636365,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Serratia_marcescens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83358116820784,
+          40.76550137137061
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.03005909090909091,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_johnsonii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.96857399486629,
+          40.76403804775276
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.65524636363636357,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_junii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84242817567737,
+          40.722349398840784
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_lwoffii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86772837320171,
+          40.73270755784213
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 1.9792763636363637,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_nectaris"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8632413003684,
+          40.76380749143962
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_pittii_calcoaceticus_nosocomialis"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8764463989897,
+          40.730023353829864
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.6915663636363637,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_radioresistens"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83146195063397,
+          40.74512702795481
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.18074727272727273,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_schindleri"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84318744796134,
+          40.724004922941084
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 10.24108,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Acinetobacter_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.951966954554,
+          40.78424568091621
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Enhydrobacter_aerosaccus"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.89254922006758,
+          40.74202056722818
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.58697363636363642,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_aeruginosa"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9663989717814,
+          40.78347712295093
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0041863636363636365,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_amygdali"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84146590168476,
+          40.7402636617763
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.5972918181818182,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_fragi"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.8404615889104,
+          40.78466832669799
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.063005454545454545,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_mandelii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9504592105057,
+          40.73590682229094
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 2.9981763636363636,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_putida"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85046730458956,
+          40.76733055938386
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 9.1163081818181819,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Pseudomonas_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.83537156171987,
+          40.75822072587842
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Stenotrophomonas_maltophilia"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.86260589901204,
+          40.73921142957873
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0021881818181818178,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Spiroplasma_melliferum"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.93817671702985,
+          40.72505898370687
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Zygosaccharomyces_rouxii"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.94690973737615,
+          40.75323334640892
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Fusarium_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.91957267614568,
+          40.71929228972673
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Nosema_ceranae"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84699231331903,
+          40.76097896229984
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Cronobacter_phage_vB_CsaM_GAP161"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.87867053849591,
+          40.738266922382934
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Enterobacteria_phage_CC31"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9417434519516,
+          40.78212559596846
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "C2likevirus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9369288327069,
+          40.77928459207784
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.0,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Human_adenovirus_D"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.85577178369773,
+          40.731157550652135
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.069444545454545453,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Plectrovirus_unclassified"
+      }
+    },
+    {
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.84824812928636,
+          40.76412578078535
+        ]
+      },
+      "type": "Feature",
+      "properties": {
+        "percentage": 0.040219999999999999,
+        "location": "ASTORIA HIVE",
+        "kind": "bacteria",
+        "species": "Influenza_A_virus"
+      }
+    }
+  ]
+}

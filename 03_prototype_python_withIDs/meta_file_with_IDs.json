@@ -1,0 +1,366 @@
+[
+  {
+    "location": "ASTORIA HIVE",
+    "sample": [
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 99.23611
+          },
+          {
+            "kingdom": "Viruses",
+            "percentage": 0.76389
+          }
+        ],
+        "sample_name": "Honey"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Bee"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Bee Debris Solid"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Bee Debris Liquid"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Propolis in Solvant"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 99.55758
+          },
+          {
+            "kingdom": "Viruses",
+            "percentage": 0.44242
+          }
+        ],
+        "sample_name": "Iaise Hive 1"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Ralph's Hand"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Beeswax"
+      },
+      {
+        "data": [],
+        "sample_name": "Outside Hive"
+      },
+      {
+        "data": [],
+        "sample_name": "Inside Hive"
+      },
+      {
+        "data": [],
+        "sample_name": "Scrapper"
+      },
+      {
+        "data": [],
+        "sample_name": "Propolis no solvent"
+      }
+    ]
+  },
+  {
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "sample": [
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 92.99526
+          },
+          {
+            "kingdom": "Eukaryota",
+            "percentage": 7.004739999999999
+          }
+        ],
+        "sample_name": "Honey"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Bee"
+      },
+      {
+        "data": [],
+        "sample_name": "Bee Debris Solid"
+      },
+      {
+        "data": [],
+        "sample_name": "Bee Debris Liquid"
+      },
+      {
+        "data": [],
+        "sample_name": "Propolis in Solvant"
+      },
+      {
+        "data": [],
+        "sample_name": "Iaise Hive 1"
+      },
+      {
+        "data": [],
+        "sample_name": "Ralph's Hand"
+      },
+      {
+        "data": [],
+        "sample_name": "Beeswax"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Outside Hive"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Inside Hive"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 99.88167
+          },
+          {
+            "kingdom": "Viruses",
+            "percentage": 0.11832999999999999
+          }
+        ],
+        "sample_name": "Scrapper"
+      },
+      {
+        "data": [],
+        "sample_name": "Propolis no solvent"
+      }
+    ]
+  },
+  {
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "sample": [
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Honey"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 99.03303000000001
+          },
+          {
+            "kingdom": "Eukaryota",
+            "percentage": 0.9669700000000001
+          }
+        ],
+        "sample_name": "Bee"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 48.24113
+          },
+          {
+            "kingdom": "Eukaryota",
+            "percentage": 0.35791999999999996
+          },
+          {
+            "kingdom": "Viruses",
+            "percentage": 51.40095
+          }
+        ],
+        "sample_name": "Bee Debris Solid"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Bee Debris Liquid"
+      },
+      {
+        "data": [],
+        "sample_name": "Propolis in Solvant"
+      },
+      {
+        "data": [],
+        "sample_name": "Iaise Hive 1"
+      },
+      {
+        "data": [],
+        "sample_name": "Ralph's Hand"
+      },
+      {
+        "data": [],
+        "sample_name": "Beeswax"
+      },
+      {
+        "data": [],
+        "sample_name": "Outside Hive"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Inside Hive"
+      },
+      {
+        "data": [],
+        "sample_name": "Scrapper"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Propolis no solvent"
+      }
+    ]
+  },
+  {
+    "location": "FORT GREENE",
+    "sample": [
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 99.37924
+          },
+          {
+            "kingdom": "Viruses",
+            "percentage": 0.6207600000000001
+          }
+        ],
+        "sample_name": "Honey"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Bee"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Bee Debris Solid"
+      },
+      {
+        "data": [],
+        "sample_name": "Bee Debris Liquid"
+      },
+      {
+        "data": [],
+        "sample_name": "Propolis in Solvant"
+      },
+      {
+        "data": [],
+        "sample_name": "Iaise Hive 1"
+      },
+      {
+        "data": [],
+        "sample_name": "Ralph's Hand"
+      },
+      {
+        "data": [],
+        "sample_name": "Beeswax"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Outside Hive"
+      },
+      {
+        "data": [
+          {
+            "kingdom": "Bacteria",
+            "percentage": 100.0
+          }
+        ],
+        "sample_name": "Inside Hive"
+      },
+      {
+        "data": [],
+        "sample_name": "Scrapper"
+      },
+      {
+        "data": [],
+        "sample_name": "Propolis no solvent"
+      }
+    ]
+  }
+]

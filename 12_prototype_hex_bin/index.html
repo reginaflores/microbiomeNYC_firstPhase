@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+.axis text {
+  font: 10px sans-serif;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+
+.hexagon {
+  fill: none;
+  stroke: #000;
+  stroke-width: .5px;
+}
+
+p{
+  margin-left: 10%;
+  font-style: italic;
+}
+
+</style>
+<body>
+<p>Microbe Outlier - Astoria Hive</p>
+<script src="//d3js.org/d3.v3.min.js"></script>
+<script src="d3.hexbin.min.js"></script>
+<script src="http://labratrevenge.com/d3-tip/javascripts/d3.tip.v0.6.3.js"></script>
+
+<script>
+
+var margin = {top: 20, right: 20, bottom: 30, left: 40},
+    width = 400, //- margin.left - margin.right,
+    height = 200; //- margin.top - margin.bottom;
+
+var randomX = d3.random.normal(width / 2, 80),
+    randomY = d3.random.normal(height / 2, 80),
+    points = d3.range(2000).map(function() { return [randomX(), randomY()]; });
+
+var color = d3.scale.linear()
+    .domain([0, 5])
+    .range(["white", "steelblue"])
+    .interpolate(d3.interpolateLab);
+
+var hexbin = d3.hexbin()
+    .size([width, height])
+    .radius(20);
+
+var x = d3.scale.identity()
+    .domain([0, width]);
+
+var y = d3.scale.linear()
+    .domain([0, height])
+    .range([height, 0]);
+
+// var xAxis = d3.svg.axis()
+//     .scale(x)
+//     .orient("bottom")
+//     .tickSize(6, -height);
+
+// var yAxis = d3.svg.axis()
+//     .scale(y)
+//     .orient("left")
+//     .tickSize(6, -width);
+
+var svg = d3.select("body").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+svg.append("clipPath")
+    .attr("id", "clip")
+  .append("rect")
+    .attr("class", "mesh")
+    .attr("width", width)
+    .attr("height", height);
+
+
+// var tip = d3.tip()
+//   .attr('class', 'd3-tip')
+//   .offset([-10, 0])
+//   .html(function(d) {
+//     return "<strong>Abundance:</strong> <span style='color:red'>" + d.frequency + "</span>";
+//   })
+
+var amounts = [];
+var idxAmounts = 0;
+d3.json("meta_uniques_w_abundance.json", function(error, data) {
+  if (error) {
+    alert("error");
+    return error;
+  }
+
+
+  var astoria = data["ASTORIA HIVE"];
+  var samples = [];
+  console.log(astoria);
+  for (var i = 0; i < astoria.length; i++) {
+    amounts.push(astoria[i][1]);
+  }
+  amounts = amounts.sort().reverse();
+  // console.log("AMOUNTS:");
+  // console.log(amounts);
+  astoria = astoria.sort(function(x,y) {
+    if (x[1] < y[1]) return 1;
+    if (x[1] > y[1]) return -1;
+    return 0;
+  })
+
+  var hexBinned = hexbin(points);
+  hexBinned = hexBinned.sort(function(x, y) {
+    if (x.length < y.length) {
+      return 1;
+    }
+    if (x.length > y.length) {
+      return -1;
+    }
+    return 0;
+  });
+  hexBinned = hexBinned.slice(0, amounts.length);
+
+  svg.append("g")
+    .attr("clip-path", "url(#clip)")
+  .selectAll(".hexagon")
+    .data(hexBinned)
+  .enter().append("path")
+    .attr("class", "hexagon")
+    .attr("d", hexbin.hexagon())
+    .attr("transform", function(d) { return "translate(" + d.x + "," + d.y + ")"; })
+    .style("fill", function(d) { 
+      // console.log(JSON.stringify(d));
+      // console.log(d.length);
+      // return color(d.length);
+      var a = 0;
+      if (idxAmounts < amounts.length) {
+        var a = amounts[idxAmounts++];
+      }
+      // console.log(color(a));
+      return color(a);
+    })
+    .on("mouseover", function(d) {
+      // var length = d.length;
+
+      // find the index of this length
+      // var idx = -1;
+      for (var i = 0; i < hexBinned.length; i++) {
+        if (hexBinned[i].length == d.length) {
+          console.log(astoria[i]);
+        }
+      }
+      // console.log(d);
+      console.log("mousover");
+    });
+});
+
+
+
+
+svg.append("g")
+    .attr("class", "y axis")
+    .call(yAxis);
+
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + height + ")")
+    .call(xAxis);
+
+</script>

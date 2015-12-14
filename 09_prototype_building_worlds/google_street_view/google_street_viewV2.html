@@ -1,0 +1,74 @@
+
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>Floating Shiny Knot - Street View Panorama Reflection Mapping</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+		<link rel="stylesheet" href="buttons.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		<link href="style.css" rel="stylesheet">
+        <script type="text/javascript" src="js/three.r68/three.min.js"></script>
+        <script type="text/javascript" src="js/three.r68/OrbitControls.js"></script>
+        <script type="text/javascript" src="js/three.r68/Detector.js"></script>
+        <script type="text/javascript" src="js/dat.gui.min.js"></script>
+        <script type="text/javascript" src="js/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.base64.min.js"></script>
+        <script type="text/javascript" src="js/zpipe.min.js"></script>
+        <script type="text/javascript" src="js/GSVPano.js"></script>
+        <script type="text/javascript" src="js/GSVPanoDepth.js"></script>
+        <script type="text/javascript" src="js/streetcloudv2.js"></script>
+</head>
+	<body>
+
+		<div id="container"></div>
+		
+		<div id="options" class="hide">
+				
+			<div id="map"></div>
+
+			<div class="block">
+				<form id="map_form">
+					<input type="text" name="address" id="address" />
+					<button type="submit" class="primary button" id="searchButton" >Search</button>
+				</form>
+			</div>
+			
+			<div class="block">
+				<button type="submit" id="myLocationButton" style="width: 148px" class="button">Use my location</button>
+				<button type="submit" id="fullscreenButton" style="width: 148px" class="button">Go fullscreen</button>
+			</div>
+			
+			<div class="block">
+				<button type="submit" id="reflectButton" style="width: 148px" class="button active">Chrome finish</button>
+				<button type="submit" id="refractButton" style="width: 148px" class="button">Glass finish</button>
+			</div>
+			
+			<div class="block" id="status" >
+				<div id="message" ></div>
+				<div id="error" ></div>
+			</div>
+			
+		</div>
+		
+		<div id="preloader" >
+			<div id="bar" ></div>
+		</div>
+		
+		<script src="js/three.min.js"></script>
+		<script src="//maps.google.com/maps/api/js?sensor=false"></script>
+		<script src="js/GSVPano.js"></script>
+		
+		<script type="x-shader/x-vertex" id="vertexShader">
+
+		
+
+		</script>
+		
+		<script type="x-shader/x-vertex" id="fragmentShader">
+		
+
+		</script>
+		<script src="google.js"></script>
+	</body>
+</html>

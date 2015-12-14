@@ -1,0 +1,2571 @@
+[
+  {
+    "genus": "Granulicella",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.59015,
+    "sample": "Bee Debris Liquid",
+    "species": "Granulicella_unclassified"
+  },
+  {
+    "genus": "Agromyces",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.49463,
+    "sample": "Bee Debris Liquid",
+    "species": "Agromyces_unclassified"
+  },
+  {
+    "genus": "Curtobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.5464399999999999,
+    "sample": "Honey",
+    "species": "Curtobacterium_unclassified"
+  },
+  {
+    "genus": "Curtobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 5.98417,
+    "sample": "Bee Debris Liquid",
+    "species": "Curtobacterium_unclassified"
+  },
+  {
+    "genus": "Curtobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.061079999999999995,
+    "sample": "Inside Hive",
+    "species": "Curtobacterium_unclassified"
+  },
+  {
+    "genus": "Rothia",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.50272,
+    "sample": "Ralph's Hand",
+    "species": "Rothia_dentocariosa"
+  },
+  {
+    "genus": "Rothia",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.53873,
+    "sample": "Ralph's Hand",
+    "species": "Rothia_unclassified"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 8.37181,
+    "sample": "Bee",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 15.546470000000001,
+    "sample": "Propolis in Solvant",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 3.0464900000000004,
+    "sample": "Ralph's Hand",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.24931,
+    "sample": "Honey",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.91924,
+    "sample": "Bee",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 79.71134,
+    "sample": "Bee Debris Solid",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 4.1268400000000005,
+    "sample": "Propolis in Solvant",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 5.61396,
+    "sample": "Ralph's Hand",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.1948,
+    "sample": "Inside Hive",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Prevotella",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.15938,
+    "sample": "Ralph's Hand",
+    "species": "Prevotella_disiens"
+  },
+  {
+    "genus": "Hymenobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.27551,
+    "sample": "Honey",
+    "species": "Hymenobacter_unclassified"
+  },
+  {
+    "genus": "Hymenobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 6.3503,
+    "sample": "Bee Debris Liquid",
+    "species": "Hymenobacter_unclassified"
+  },
+  {
+    "genus": "Pedobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.1853,
+    "sample": "Bee Debris Liquid",
+    "species": "Pedobacter_unclassified"
+  },
+  {
+    "genus": "Pedobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 9.21379,
+    "sample": "Inside Hive",
+    "species": "Pedobacter_unclassified"
+  },
+  {
+    "genus": "Microcoleus",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.1870399999999999,
+    "sample": "Bee",
+    "species": "Microcoleus_unclassified"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.486,
+    "sample": "Ralph's Hand",
+    "species": "Deinococcus_unclassified"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.0498,
+    "sample": "Inside Hive",
+    "species": "Deinococcus_unclassified"
+  },
+  {
+    "genus": "Sporosarcina",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.3621,
+    "sample": "Propolis in Solvant",
+    "species": "Sporosarcina_newyorkensis"
+  },
+  {
+    "genus": "Sporosarcina",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.5635700000000001,
+    "sample": "Ralph's Hand",
+    "species": "Sporosarcina_newyorkensis"
+  },
+  {
+    "genus": "Staphylococcus",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.77331,
+    "sample": "Ralph's Hand",
+    "species": "Staphylococcus_epidermidis"
+  },
+  {
+    "genus": "Granulicatella",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.13604000000000002,
+    "sample": "Ralph's Hand",
+    "species": "Granulicatella_unclassified"
+  },
+  {
+    "genus": "Lactococcus",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.67723,
+    "sample": "Bee Debris Liquid",
+    "species": "Lactococcus_lactis"
+  },
+  {
+    "genus": "Streptococcus",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.1607,
+    "sample": "Ralph's Hand",
+    "species": "Streptococcus_mitis_oralis_pneumoniae"
+  },
+  {
+    "genus": "Finegoldia",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.50185,
+    "sample": "Ralph's Hand",
+    "species": "Finegoldia_magna"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.51527,
+    "sample": "Ralph's Hand",
+    "species": "Caulobacter_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.11693,
+    "sample": "Bee",
+    "species": "Caulobacter_vibrioides"
+  },
+  {
+    "genus": "Bradyrhizobium",
+    "location": "ASTORIA HIVE",
+    "percentage": 38.331520000000005,
+    "sample": "Bee",
+    "species": "Bradyrhizobium_sp_DFCI_1"
+  },
+  {
+    "genus": "Mesorhizobium",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.17638,
+    "sample": "Bee",
+    "species": "Mesorhizobium_unclassified"
+  },
+  {
+    "genus": "Mesorhizobium",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.39511999999999997,
+    "sample": "Propolis in Solvant",
+    "species": "Mesorhizobium_unclassified"
+  },
+  {
+    "genus": "Mesorhizobium",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.15709,
+    "sample": "Ralph's Hand",
+    "species": "Mesorhizobium_unclassified"
+  },
+  {
+    "genus": "Rickettsia",
+    "location": "ASTORIA HIVE",
+    "percentage": 6.187180000000001,
+    "sample": "Inside Hive",
+    "species": "Rickettsia_felis"
+  },
+  {
+    "genus": "Rickettsia",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.74541,
+    "sample": "Inside Hive",
+    "species": "Rickettsia_parkeri"
+  },
+  {
+    "genus": "Sphingobium",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.27,
+    "sample": "Inside Hive",
+    "species": "Sphingobium_unclassified"
+  },
+  {
+    "genus": "Sphingomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 51.39655,
+    "sample": "Ralph's Hand",
+    "species": "Sphingomonas_sp_S17"
+  },
+  {
+    "genus": "Burkholderia",
+    "location": "ASTORIA HIVE",
+    "percentage": 5.7726,
+    "sample": "Inside Hive",
+    "species": "Burkholderia_unclassified"
+  },
+  {
+    "genus": "Thiomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.20727,
+    "sample": "Beeswax",
+    "species": "Thiomonas_unclassified"
+  },
+  {
+    "genus": "Acidovorax",
+    "location": "ASTORIA HIVE",
+    "percentage": 5.26615,
+    "sample": "Bee",
+    "species": "Acidovorax_ebreus"
+  },
+  {
+    "genus": "Acidovorax",
+    "location": "ASTORIA HIVE",
+    "percentage": 4.90094,
+    "sample": "Propolis in Solvant",
+    "species": "Acidovorax_ebreus"
+  },
+  {
+    "genus": "Acidovorax",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.14219,
+    "sample": "Ralph's Hand",
+    "species": "Acidovorax_ebreus"
+  },
+  {
+    "genus": "Alicycliphilus",
+    "location": "ASTORIA HIVE",
+    "percentage": 4.16293,
+    "sample": "Bee",
+    "species": "Alicycliphilus_unclassified"
+  },
+  {
+    "genus": "Alicycliphilus",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.11483,
+    "sample": "Ralph's Hand",
+    "species": "Alicycliphilus_unclassified"
+  },
+  {
+    "genus": "Comamonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.773,
+    "sample": "Ralph's Hand",
+    "species": "Comamonas_unclassified"
+  },
+  {
+    "genus": "Limnohabitans",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.52225,
+    "sample": "Bee",
+    "species": "Limnohabitans_unclassified"
+  },
+  {
+    "genus": "Limnohabitans",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.49035,
+    "sample": "Ralph's Hand",
+    "species": "Limnohabitans_unclassified"
+  },
+  {
+    "genus": "Polaromonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.12522,
+    "sample": "Bee",
+    "species": "Polaromonas_unclassified"
+  },
+  {
+    "genus": "Polaromonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.20844000000000001,
+    "sample": "Ralph's Hand",
+    "species": "Polaromonas_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.48031,
+    "sample": "Bee",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.00666,
+    "sample": "Ralph's Hand",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.93737,
+    "sample": "Inside Hive",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Verminephrobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 3.885,
+    "sample": "Bee",
+    "species": "Verminephrobacter_unclassified"
+  },
+  {
+    "genus": "Verminephrobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.5019999999999998,
+    "sample": "Propolis in Solvant",
+    "species": "Verminephrobacter_unclassified"
+  },
+  {
+    "genus": "Janthinobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 3.80862,
+    "sample": "Bee Debris Liquid",
+    "species": "Janthinobacterium_unclassified"
+  },
+  {
+    "genus": "Janthinobacterium",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.44794,
+    "sample": "Inside Hive",
+    "species": "Janthinobacterium_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "ASTORIA HIVE",
+    "percentage": 26.64322,
+    "sample": "Bee Debris Liquid",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.5715600000000001,
+    "sample": "Ralph's Hand",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.07213,
+    "sample": "Inside Hive",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Neisseria",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.76199,
+    "sample": "Ralph's Hand",
+    "species": "Neisseria_unclassified"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.67366,
+    "sample": "Honey",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.71217,
+    "sample": "Bee",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 17.847189999999998,
+    "sample": "Propolis in Solvant",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 4.002269999999999,
+    "sample": "Ralph's Hand",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 6.55075,
+    "sample": "Beeswax",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Erwinia",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.42936,
+    "sample": "Honey",
+    "species": "Erwinia_tasmaniensis"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.3769,
+    "sample": "Propolis in Solvant",
+    "species": "Escherichia_coli"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.6702100000000001,
+    "sample": "Ralph's Hand",
+    "species": "Escherichia_coli"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "ASTORIA HIVE",
+    "percentage": 15.6943,
+    "sample": "Beeswax",
+    "species": "Escherichia_hermannii"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "ASTORIA HIVE",
+    "percentage": 20.28866,
+    "sample": "Bee Debris Solid",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.40402,
+    "sample": "Propolis in Solvant",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "ASTORIA HIVE",
+    "percentage": 3.54322,
+    "sample": "Ralph's Hand",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Klebsiella",
+    "location": "ASTORIA HIVE",
+    "percentage": 3.16358,
+    "sample": "Beeswax",
+    "species": "Klebsiella_unclassified"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.4646,
+    "sample": "Honey",
+    "species": "Pantoea_agglomerans"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.51991,
+    "sample": "Honey",
+    "species": "Pantoea_ananatis"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.5547400000000002,
+    "sample": "Honey",
+    "species": "Pantoea_unclassified"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "ASTORIA HIVE",
+    "percentage": 3.87298,
+    "sample": "Propolis in Solvant",
+    "species": "Pantoea_unclassified"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.18159,
+    "sample": "Beeswax",
+    "species": "Pantoea_unclassified"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "ASTORIA HIVE",
+    "percentage": 48.6659,
+    "sample": "Inside Hive",
+    "species": "Pantoea_unclassified"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.81234,
+    "sample": "Honey",
+    "species": "Pantoea_vagans"
+  },
+  {
+    "genus": "Serratia",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.99262,
+    "sample": "Inside Hive",
+    "species": "Serratia_marcescens"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.33065,
+    "sample": "Beeswax",
+    "species": "Acinetobacter_johnsonii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 4.15741,
+    "sample": "Bee",
+    "species": "Acinetobacter_junii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.40026,
+    "sample": "Propolis in Solvant",
+    "species": "Acinetobacter_junii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.65004,
+    "sample": "Ralph's Hand",
+    "species": "Acinetobacter_junii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 21.56101,
+    "sample": "Honey",
+    "species": "Acinetobacter_nectaris"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.21103000000000002,
+    "sample": "Propolis in Solvant",
+    "species": "Acinetobacter_nectaris"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 7.60723,
+    "sample": "Beeswax",
+    "species": "Acinetobacter_radioresistens"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.98822,
+    "sample": "Beeswax",
+    "species": "Acinetobacter_schindleri"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 62.88941,
+    "sample": "Honey",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 5.54536,
+    "sample": "Bee",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 31.257379999999998,
+    "sample": "Propolis in Solvant",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.2269,
+    "sample": "Ralph's Hand",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "ASTORIA HIVE",
+    "percentage": 11.73283,
+    "sample": "Beeswax",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 6.45671,
+    "sample": "Propolis in Solvant",
+    "species": "Pseudomonas_aeruginosa"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.04605,
+    "sample": "Honey",
+    "species": "Pseudomonas_amygdali"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 6.57021,
+    "sample": "Bee Debris Liquid",
+    "species": "Pseudomonas_fragi"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.69306,
+    "sample": "Bee Debris Liquid",
+    "species": "Pseudomonas_mandelii"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 7.47301,
+    "sample": "Bee",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.5917899999999999,
+    "sample": "Propolis in Solvant",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 7.081,
+    "sample": "Ralph's Hand",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 17.834139999999998,
+    "sample": "Beeswax",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 3.7526800000000002,
+    "sample": "Honey",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 1.4645299999999999,
+    "sample": "Bee",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 44.70067,
+    "sample": "Bee Debris Liquid",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 2.9405799999999997,
+    "sample": "Propolis in Solvant",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 32.70945,
+    "sample": "Beeswax",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "ASTORIA HIVE",
+    "percentage": 14.711479999999998,
+    "sample": "Inside Hive",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Spiroplasma",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.024069999999999998,
+    "sample": "Honey",
+    "species": "Spiroplasma_melliferum"
+  },
+  {
+    "genus": "Plectrovirus",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.76389,
+    "sample": "Honey",
+    "species": "Plectrovirus_unclassified"
+  },
+  {
+    "genus": "Influenzavirus_A",
+    "location": "ASTORIA HIVE",
+    "percentage": 0.44242,
+    "sample": "Inside Hive",
+    "species": "Influenza_A_virus"
+  },
+  {
+    "genus": "Granulicella",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.38038,
+    "sample": "Outside Hive",
+    "species": "Granulicella_unclassified"
+  },
+  {
+    "genus": "Agromyces",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.9711700000000001,
+    "sample": "Outside Hive",
+    "species": "Agromyces_unclassified"
+  },
+  {
+    "genus": "Curtobacterium",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 10.13123,
+    "sample": "Outside Hive",
+    "species": "Curtobacterium_unclassified"
+  },
+  {
+    "genus": "Leifsonia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.34312,
+    "sample": "Outside Hive",
+    "species": "Leifsonia_unclassified"
+  },
+  {
+    "genus": "Rothia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.30535,
+    "sample": "Scrapper",
+    "species": "Rothia_unclassified"
+  },
+  {
+    "genus": "Nocardioides",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.06917999999999999,
+    "sample": "Inside Hive",
+    "species": "Nocardioides_unclassified"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 7.21592,
+    "sample": "Bee",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 4.011019999999999,
+    "sample": "Scrapper",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.5237,
+    "sample": "Scrapper",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Prevotella",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.3533,
+    "sample": "Scrapper",
+    "species": "Prevotella_disiens"
+  },
+  {
+    "genus": "Hymenobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.66098,
+    "sample": "Outside Hive",
+    "species": "Hymenobacter_unclassified"
+  },
+  {
+    "genus": "Pedobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 12.41746,
+    "sample": "Outside Hive",
+    "species": "Pedobacter_unclassified"
+  },
+  {
+    "genus": "Pedobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.74135,
+    "sample": "Inside Hive",
+    "species": "Pedobacter_unclassified"
+  },
+  {
+    "genus": "Pedobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.8242700000000001,
+    "sample": "Scrapper",
+    "species": "Pedobacter_unclassified"
+  },
+  {
+    "genus": "Sphingobacterium",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.2676,
+    "sample": "Outside Hive",
+    "species": "Sphingobacterium_unclassified"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.41366,
+    "sample": "Outside Hive",
+    "species": "Deinococcus_unclassified"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.35391,
+    "sample": "Inside Hive",
+    "species": "Deinococcus_unclassified"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.49426000000000003,
+    "sample": "Scrapper",
+    "species": "Deinococcus_unclassified"
+  },
+  {
+    "genus": "Bacillus",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.23881,
+    "sample": "Scrapper",
+    "species": "Bacillus_megaterium"
+  },
+  {
+    "genus": "Sporosarcina",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 5.06991,
+    "sample": "Scrapper",
+    "species": "Sporosarcina_newyorkensis"
+  },
+  {
+    "genus": "Lactococcus",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.41503999999999996,
+    "sample": "Outside Hive",
+    "species": "Lactococcus_lactis"
+  },
+  {
+    "genus": "Streptococcus",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.10520999999999998,
+    "sample": "Bee",
+    "species": "Streptococcus_mitis_oralis_pneumoniae"
+  },
+  {
+    "genus": "Streptococcus",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 2.18165,
+    "sample": "Scrapper",
+    "species": "Streptococcus_mitis_oralis_pneumoniae"
+  },
+  {
+    "genus": "Finegoldia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.049980000000000004,
+    "sample": "Scrapper",
+    "species": "Finegoldia_magna"
+  },
+  {
+    "genus": "Asticcacaulis",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.41988000000000003,
+    "sample": "Inside Hive",
+    "species": "Asticcacaulis_unclassified"
+  },
+  {
+    "genus": "Brevundimonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.70634,
+    "sample": "Outside Hive",
+    "species": "Brevundimonas_diminuta"
+  },
+  {
+    "genus": "Brevundimonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 2.22617,
+    "sample": "Inside Hive",
+    "species": "Brevundimonas_unclassified"
+  },
+  {
+    "genus": "Brevundimonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.23625,
+    "sample": "Scrapper",
+    "species": "Brevundimonas_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 2.1896299999999997,
+    "sample": "Bee",
+    "species": "Caulobacter_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.81134,
+    "sample": "Outside Hive",
+    "species": "Caulobacter_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.1177,
+    "sample": "Inside Hive",
+    "species": "Caulobacter_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.33736,
+    "sample": "Scrapper",
+    "species": "Caulobacter_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.27243,
+    "sample": "Scrapper",
+    "species": "Caulobacter_vibrioides"
+  },
+  {
+    "genus": "Bartonella",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.35039,
+    "sample": "Scrapper",
+    "species": "Bartonella_unclassified"
+  },
+  {
+    "genus": "Mesorhizobium",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.14117000000000002,
+    "sample": "Bee",
+    "species": "Mesorhizobium_unclassified"
+  },
+  {
+    "genus": "Sphingomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 64.5028,
+    "sample": "Bee",
+    "species": "Sphingomonas_sp_S17"
+  },
+  {
+    "genus": "Sphingomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 40.86456,
+    "sample": "Scrapper",
+    "species": "Sphingomonas_sp_S17"
+  },
+  {
+    "genus": "Burkholderia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.13731,
+    "sample": "Outside Hive",
+    "species": "Burkholderia_unclassified"
+  },
+  {
+    "genus": "Thiomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.8923200000000001,
+    "sample": "Outside Hive",
+    "species": "Thiomonas_unclassified"
+  },
+  {
+    "genus": "Acidovorax",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.38674000000000003,
+    "sample": "Bee",
+    "species": "Acidovorax_ebreus"
+  },
+  {
+    "genus": "Comamonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.32897,
+    "sample": "Outside Hive",
+    "species": "Comamonas_unclassified"
+  },
+  {
+    "genus": "Comamonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.78613,
+    "sample": "Scrapper",
+    "species": "Comamonas_unclassified"
+  },
+  {
+    "genus": "Limnohabitans",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.76223,
+    "sample": "Bee",
+    "species": "Limnohabitans_unclassified"
+  },
+  {
+    "genus": "Limnohabitans",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.44287,
+    "sample": "Scrapper",
+    "species": "Limnohabitans_unclassified"
+  },
+  {
+    "genus": "Polaromonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 2.27454,
+    "sample": "Bee",
+    "species": "Polaromonas_unclassified"
+  },
+  {
+    "genus": "Polaromonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.84791,
+    "sample": "Scrapper",
+    "species": "Polaromonas_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.7770600000000001,
+    "sample": "Bee",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.39731,
+    "sample": "Outside Hive",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.27348,
+    "sample": "Inside Hive",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.44533999999999996,
+    "sample": "Scrapper",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Verminephrobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 5.23,
+    "sample": "Bee",
+    "species": "Verminephrobacter_unclassified"
+  },
+  {
+    "genus": "Verminephrobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 2.04543,
+    "sample": "Scrapper",
+    "species": "Verminephrobacter_unclassified"
+  },
+  {
+    "genus": "Janthinobacterium",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.8932,
+    "sample": "Outside Hive",
+    "species": "Janthinobacterium_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 4.87716,
+    "sample": "Outside Hive",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.19182000000000002,
+    "sample": "Scrapper",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 3.24627,
+    "sample": "Bee",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.36744,
+    "sample": "Outside Hive",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.03205,
+    "sample": "Inside Hive",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 18.31646,
+    "sample": "Scrapper",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 3.3500099999999997,
+    "sample": "Bee",
+    "species": "Escherichia_coli"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 5.301069999999999,
+    "sample": "Outside Hive",
+    "species": "Escherichia_coli"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 73.68575,
+    "sample": "Inside Hive",
+    "species": "Escherichia_coli"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 2.18008,
+    "sample": "Outside Hive",
+    "species": "Escherichia_hermannii"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 6.03895,
+    "sample": "Inside Hive",
+    "species": "Escherichia_hermannii"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 3.42803,
+    "sample": "Honey",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 3.2777,
+    "sample": "Outside Hive",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 14.46975,
+    "sample": "Inside Hive",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.714,
+    "sample": "Scrapper",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 12.96061,
+    "sample": "Honey",
+    "species": "Pantoea_unclassified"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 2.95589,
+    "sample": "Outside Hive",
+    "species": "Pantoea_unclassified"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.32709,
+    "sample": "Inside Hive",
+    "species": "Pantoea_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 5.08764,
+    "sample": "Honey",
+    "species": "Acinetobacter_nectaris"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 1.0578100000000001,
+    "sample": "Scrapper",
+    "species": "Acinetobacter_pittii_calcoaceticus_nosocomialis"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 50.36269,
+    "sample": "Honey",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.40045,
+    "sample": "Outside Hive",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.9617600000000001,
+    "sample": "Outside Hive",
+    "species": "Pseudomonas_fragi"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.44893,
+    "sample": "Outside Hive",
+    "species": "Pseudomonas_mandelii"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 9.20783,
+    "sample": "Bee",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 5.104480000000001,
+    "sample": "Scrapper",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 46.252559999999995,
+    "sample": "Outside Hive",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 4.1306,
+    "sample": "Scrapper",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Stenotrophomonas",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.24475,
+    "sample": "Inside Hive",
+    "species": "Stenotrophomonas_maltophilia"
+  },
+  {
+    "genus": "Zygosaccharomyces",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 7.004739999999999,
+    "sample": "Honey",
+    "species": "Zygosaccharomyces_rouxii"
+  },
+  {
+    "genus": "Mastadenovirus",
+    "location": "CROWN HEIGHTS -TOP BAR",
+    "percentage": 0.11832999999999999,
+    "sample": "Scrapper",
+    "species": "Human_adenovirus_D"
+  },
+  {
+    "genus": "Nocardioides",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.04833,
+    "sample": "Bee Debris Solid",
+    "species": "Nocardioides_unclassified"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 9.09274,
+    "sample": "Inside Hive",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.48881,
+    "sample": "Propolis no solvent",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.42493000000000003,
+    "sample": "Bee",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.73793,
+    "sample": "Bee Debris Solid",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.2613,
+    "sample": "Inside Hive",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Hymenobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.85449,
+    "sample": "Honey",
+    "species": "Hymenobacter_unclassified"
+  },
+  {
+    "genus": "Hymenobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.06729,
+    "sample": "Inside Hive",
+    "species": "Hymenobacter_unclassified"
+  },
+  {
+    "genus": "Chryseobacterium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0132,
+    "sample": "Bee Debris Solid",
+    "species": "Chryseobacterium_unclassified"
+  },
+  {
+    "genus": "Chryseobacterium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.09249,
+    "sample": "Inside Hive",
+    "species": "Chryseobacterium_unclassified"
+  },
+  {
+    "genus": "Riemerella",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.00014,
+    "sample": "Bee",
+    "species": "Riemerella_unclassified"
+  },
+  {
+    "genus": "Riemerella",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.5705399999999999,
+    "sample": "Inside Hive",
+    "species": "Riemerella_unclassified"
+  },
+  {
+    "genus": "Riemerella",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 4.60205,
+    "sample": "Propolis no solvent",
+    "species": "Riemerella_unclassified"
+  },
+  {
+    "genus": "Pedobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.9413400000000003,
+    "sample": "Honey",
+    "species": "Pedobacter_unclassified"
+  },
+  {
+    "genus": "Pedobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 7.74218,
+    "sample": "Bee Debris Liquid",
+    "species": "Pedobacter_unclassified"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.01762,
+    "sample": "Bee Debris Solid",
+    "species": "Deinococcus_aquatilis"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.45905,
+    "sample": "Honey",
+    "species": "Deinococcus_unclassified"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.79581,
+    "sample": "Bee",
+    "species": "Deinococcus_unclassified"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 5.59296,
+    "sample": "Bee Debris Liquid",
+    "species": "Deinococcus_unclassified"
+  },
+  {
+    "genus": "Deinococcus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.45083999999999996,
+    "sample": "Inside Hive",
+    "species": "Deinococcus_unclassified"
+  },
+  {
+    "genus": "Sporosarcina",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.30208,
+    "sample": "Bee",
+    "species": "Sporosarcina_newyorkensis"
+  },
+  {
+    "genus": "Sporosarcina",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 8.405710000000001,
+    "sample": "Bee Debris Solid",
+    "species": "Sporosarcina_newyorkensis"
+  },
+  {
+    "genus": "Carnobacterium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.03879,
+    "sample": "Bee Debris Solid",
+    "species": "Carnobacterium_maltaromaticum"
+  },
+  {
+    "genus": "Enterococcus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.3105200000000001,
+    "sample": "Bee Debris Liquid",
+    "species": "Enterococcus_casseliflavus"
+  },
+  {
+    "genus": "Lactococcus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 4.76701,
+    "sample": "Bee Debris Liquid",
+    "species": "Lactococcus_lactis"
+  },
+  {
+    "genus": "Streptococcus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.14529,
+    "sample": "Bee",
+    "species": "Streptococcus_mitis_oralis_pneumoniae"
+  },
+  {
+    "genus": "Streptococcus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.21536999999999998,
+    "sample": "Inside Hive",
+    "species": "Streptococcus_mitis_oralis_pneumoniae"
+  },
+  {
+    "genus": "Brevundimonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 12.7812,
+    "sample": "Honey",
+    "species": "Brevundimonas_unclassified"
+  },
+  {
+    "genus": "Brevundimonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.36845,
+    "sample": "Bee Debris Solid",
+    "species": "Brevundimonas_unclassified"
+  },
+  {
+    "genus": "Brevundimonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.41575,
+    "sample": "Bee Debris Liquid",
+    "species": "Brevundimonas_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.22312,
+    "sample": "Honey",
+    "species": "Caulobacter_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.52647,
+    "sample": "Bee Debris Liquid",
+    "species": "Caulobacter_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.22149,
+    "sample": "Propolis no solvent",
+    "species": "Caulobacter_unclassified"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.2281,
+    "sample": "Bee",
+    "species": "Caulobacter_vibrioides"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.7861899999999999,
+    "sample": "Inside Hive",
+    "species": "Caulobacter_vibrioides"
+  },
+  {
+    "genus": "Bartonella",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.46352,
+    "sample": "Inside Hive",
+    "species": "Bartonella_unclassified"
+  },
+  {
+    "genus": "Mesorhizobium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.70518,
+    "sample": "Bee",
+    "species": "Mesorhizobium_unclassified"
+  },
+  {
+    "genus": "Mesorhizobium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.07413,
+    "sample": "Propolis no solvent",
+    "species": "Mesorhizobium_unclassified"
+  },
+  {
+    "genus": "Roseomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.98624,
+    "sample": "Honey",
+    "species": "Roseomonas_unclassified"
+  },
+  {
+    "genus": "Sphingobium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.4188,
+    "sample": "Inside Hive",
+    "species": "Sphingobium_unclassified"
+  },
+  {
+    "genus": "Sphingomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 53.39151,
+    "sample": "Bee",
+    "species": "Sphingomonas_sp_S17"
+  },
+  {
+    "genus": "Sphingomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 58.33181,
+    "sample": "Inside Hive",
+    "species": "Sphingomonas_sp_S17"
+  },
+  {
+    "genus": "Sphingomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 54.169740000000004,
+    "sample": "Propolis no solvent",
+    "species": "Sphingomonas_sp_S17"
+  },
+  {
+    "genus": "Sphingopyxis",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.6168600000000001,
+    "sample": "Honey",
+    "species": "Sphingopyxis_unclassified"
+  },
+  {
+    "genus": "Bordetella",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.41928000000000004,
+    "sample": "Bee Debris Liquid",
+    "species": "Bordetella_unclassified"
+  },
+  {
+    "genus": "Acidovorax",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.5806200000000001,
+    "sample": "Bee",
+    "species": "Acidovorax_ebreus"
+  },
+  {
+    "genus": "Acidovorax",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.3578,
+    "sample": "Inside Hive",
+    "species": "Acidovorax_ebreus"
+  },
+  {
+    "genus": "Acidovorax",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 11.67402,
+    "sample": "Propolis no solvent",
+    "species": "Acidovorax_ebreus"
+  },
+  {
+    "genus": "Alicycliphilus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.6070900000000004,
+    "sample": "Inside Hive",
+    "species": "Alicycliphilus_unclassified"
+  },
+  {
+    "genus": "Alicycliphilus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.25796,
+    "sample": "Propolis no solvent",
+    "species": "Alicycliphilus_unclassified"
+  },
+  {
+    "genus": "Comamonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.35853,
+    "sample": "Inside Hive",
+    "species": "Comamonas_unclassified"
+  },
+  {
+    "genus": "Comamonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.72132,
+    "sample": "Propolis no solvent",
+    "species": "Comamonas_unclassified"
+  },
+  {
+    "genus": "Limnohabitans",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.26749,
+    "sample": "Bee",
+    "species": "Limnohabitans_unclassified"
+  },
+  {
+    "genus": "Polaromonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.3722299999999998,
+    "sample": "Bee",
+    "species": "Polaromonas_unclassified"
+  },
+  {
+    "genus": "Polaromonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.05065,
+    "sample": "Bee Debris Solid",
+    "species": "Polaromonas_unclassified"
+  },
+  {
+    "genus": "Polaromonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.1618,
+    "sample": "Bee Debris Liquid",
+    "species": "Polaromonas_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.70784,
+    "sample": "Honey",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.9950299999999999,
+    "sample": "Bee",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.10400000000000001,
+    "sample": "Bee Debris Solid",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.67229,
+    "sample": "Bee Debris Liquid",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.9801700000000001,
+    "sample": "Inside Hive",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Verminephrobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.19493,
+    "sample": "Bee",
+    "species": "Verminephrobacter_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 11.9523,
+    "sample": "Honey",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.29027,
+    "sample": "Bee Debris Solid",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.24832,
+    "sample": "Bee Debris Liquid",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.80583,
+    "sample": "Inside Hive",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.33125,
+    "sample": "Propolis no solvent",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Methylophilus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.08947000000000001,
+    "sample": "Inside Hive",
+    "species": "Methylophilus_methylotrophus"
+  },
+  {
+    "genus": "Methylophilus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.03709,
+    "sample": "Inside Hive",
+    "species": "Methylophilus_unclassified"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.11663,
+    "sample": "Bee Debris Solid",
+    "species": "Enterobacter_asburiae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.80894,
+    "sample": "Bee",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 32.297290000000004,
+    "sample": "Bee Debris Solid",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.06428,
+    "sample": "Inside Hive",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 43.52519,
+    "sample": "Bee Debris Liquid",
+    "species": "Escherichia_coli"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.49663999999999997,
+    "sample": "Inside Hive",
+    "species": "Escherichia_coli"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 11.926060000000001,
+    "sample": "Bee Debris Liquid",
+    "species": "Escherichia_hermannii"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.1318900000000003,
+    "sample": "Honey",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.0697900000000002,
+    "sample": "Bee",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.32045,
+    "sample": "Bee Debris Solid",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.28507,
+    "sample": "Inside Hive",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.78635,
+    "sample": "Propolis no solvent",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Klebsiella",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.30703,
+    "sample": "Propolis no solvent",
+    "species": "Klebsiella_unclassified"
+  },
+  {
+    "genus": "Pantoea",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.3145,
+    "sample": "Bee Debris Solid",
+    "species": "Pantoea_unclassified"
+  },
+  {
+    "genus": "Raoultella",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.0602,
+    "sample": "Bee Debris Solid",
+    "species": "Raoultella_ornithinolytica"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.8795,
+    "sample": "Bee Debris Liquid",
+    "species": "Acinetobacter_johnsonii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.55518,
+    "sample": "Bee",
+    "species": "Acinetobacter_junii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.10256,
+    "sample": "Inside Hive",
+    "species": "Acinetobacter_junii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 8.0176,
+    "sample": "Propolis no solvent",
+    "species": "Acinetobacter_junii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.71558,
+    "sample": "Honey",
+    "species": "Acinetobacter_nectaris"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 1.08594,
+    "sample": "Bee Debris Liquid",
+    "species": "Acinetobacter_radioresistens"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 37.31451,
+    "sample": "Honey",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 3.7079800000000005,
+    "sample": "Bee",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 7.289510000000001,
+    "sample": "Bee Debris Liquid",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.9826200000000003,
+    "sample": "Inside Hive",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 7.31274,
+    "sample": "Propolis no solvent",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Enhydrobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.8503299999999999,
+    "sample": "Inside Hive",
+    "species": "Enhydrobacter_aerosaccus"
+  },
+  {
+    "genus": "Enhydrobacter",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.38634,
+    "sample": "Propolis no solvent",
+    "species": "Enhydrobacter_aerosaccus"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.07096000000000001,
+    "sample": "Bee Debris Solid",
+    "species": "Pseudomonas_fragi"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 6.933730000000001,
+    "sample": "Bee",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.5734899999999999,
+    "sample": "Bee Debris Solid",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.8714,
+    "sample": "Bee Debris Liquid",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 6.68138,
+    "sample": "Inside Hive",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.93362,
+    "sample": "Propolis no solvent",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 15.315560000000001,
+    "sample": "Honey",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 5.45747,
+    "sample": "Bee",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.91285,
+    "sample": "Bee Debris Solid",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 7.8371699999999995,
+    "sample": "Bee Debris Liquid",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 4.55029,
+    "sample": "Inside Hive",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 2.7155400000000003,
+    "sample": "Propolis no solvent",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Fusarium",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.09421,
+    "sample": "Bee Debris Solid",
+    "species": "Fusarium_unclassified"
+  },
+  {
+    "genus": "Nosema",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.9669700000000001,
+    "sample": "Bee",
+    "species": "Nosema_ceranae"
+  },
+  {
+    "genus": "Nosema",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 0.26371,
+    "sample": "Bee Debris Solid",
+    "species": "Nosema_ceranae"
+  },
+  {
+    "genus": "T4likevirus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 34.906890000000004,
+    "sample": "Bee Debris Solid",
+    "species": "Cronobacter_phage_vB_CsaM_GAP161"
+  },
+  {
+    "genus": "T4likevirus",
+    "location": "CROWN HEIGHTS - LANGSTROTH",
+    "percentage": 16.49406,
+    "sample": "Bee Debris Solid",
+    "species": "Enterobacteria_phage_CC31"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "FORT GREENE",
+    "percentage": 2.7960700000000003,
+    "sample": "Honey",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "FORT GREENE",
+    "percentage": 4.47133,
+    "sample": "Outside Hive",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Propionibacterium",
+    "location": "FORT GREENE",
+    "percentage": 3.3399099999999997,
+    "sample": "Inside Hive",
+    "species": "Propionibacterium_acnes"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "FORT GREENE",
+    "percentage": 6.393009999999999,
+    "sample": "Honey",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "FORT GREENE",
+    "percentage": 73.19156,
+    "sample": "Bee",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "FORT GREENE",
+    "percentage": 72.04802,
+    "sample": "Bee Debris Solid",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Bifidobacterium",
+    "location": "FORT GREENE",
+    "percentage": 0.56386,
+    "sample": "Outside Hive",
+    "species": "Bifidobacterium_asteroides"
+  },
+  {
+    "genus": "Chryseobacterium",
+    "location": "FORT GREENE",
+    "percentage": 0.15924000000000002,
+    "sample": "Outside Hive",
+    "species": "Chryseobacterium_unclassified"
+  },
+  {
+    "genus": "Sporosarcina",
+    "location": "FORT GREENE",
+    "percentage": 1.37937,
+    "sample": "Outside Hive",
+    "species": "Sporosarcina_newyorkensis"
+  },
+  {
+    "genus": "Fructobacillus",
+    "location": "FORT GREENE",
+    "percentage": 0.2536,
+    "sample": "Honey",
+    "species": "Fructobacillus_fructosus"
+  },
+  {
+    "genus": "Caulobacter",
+    "location": "FORT GREENE",
+    "percentage": 1.21393,
+    "sample": "Inside Hive",
+    "species": "Caulobacter_unclassified"
+  },
+  {
+    "genus": "Bartonella",
+    "location": "FORT GREENE",
+    "percentage": 26.80844,
+    "sample": "Bee",
+    "species": "Bartonella_unclassified"
+  },
+  {
+    "genus": "Bartonella",
+    "location": "FORT GREENE",
+    "percentage": 27.95198,
+    "sample": "Bee Debris Solid",
+    "species": "Bartonella_unclassified"
+  },
+  {
+    "genus": "Bartonella",
+    "location": "FORT GREENE",
+    "percentage": 4.0125,
+    "sample": "Inside Hive",
+    "species": "Bartonella_unclassified"
+  },
+  {
+    "genus": "Mesorhizobium",
+    "location": "FORT GREENE",
+    "percentage": 0.70922,
+    "sample": "Outside Hive",
+    "species": "Mesorhizobium_unclassified"
+  },
+  {
+    "genus": "Rickettsia",
+    "location": "FORT GREENE",
+    "percentage": 17.15449,
+    "sample": "Honey",
+    "species": "Rickettsia_felis"
+  },
+  {
+    "genus": "Rickettsia",
+    "location": "FORT GREENE",
+    "percentage": 3.33249,
+    "sample": "Honey",
+    "species": "Rickettsia_parkeri"
+  },
+  {
+    "genus": "Sphingomonas",
+    "location": "FORT GREENE",
+    "percentage": 32.12856,
+    "sample": "Outside Hive",
+    "species": "Sphingomonas_sp_S17"
+  },
+  {
+    "genus": "Acidovorax",
+    "location": "FORT GREENE",
+    "percentage": 0.39343,
+    "sample": "Outside Hive",
+    "species": "Acidovorax_ebreus"
+  },
+  {
+    "genus": "Comamonas",
+    "location": "FORT GREENE",
+    "percentage": 0.83295,
+    "sample": "Outside Hive",
+    "species": "Comamonas_unclassified"
+  },
+  {
+    "genus": "Limnohabitans",
+    "location": "FORT GREENE",
+    "percentage": 0.5222899999999999,
+    "sample": "Outside Hive",
+    "species": "Limnohabitans_unclassified"
+  },
+  {
+    "genus": "Limnohabitans",
+    "location": "FORT GREENE",
+    "percentage": 0.1866,
+    "sample": "Inside Hive",
+    "species": "Limnohabitans_unclassified"
+  },
+  {
+    "genus": "Polaromonas",
+    "location": "FORT GREENE",
+    "percentage": 0.67394,
+    "sample": "Outside Hive",
+    "species": "Polaromonas_unclassified"
+  },
+  {
+    "genus": "Polaromonas",
+    "location": "FORT GREENE",
+    "percentage": 2.47376,
+    "sample": "Inside Hive",
+    "species": "Polaromonas_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "FORT GREENE",
+    "percentage": 1.93986,
+    "sample": "Outside Hive",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Variovorax",
+    "location": "FORT GREENE",
+    "percentage": 3.11145,
+    "sample": "Inside Hive",
+    "species": "Variovorax_unclassified"
+  },
+  {
+    "genus": "Verminephrobacter",
+    "location": "FORT GREENE",
+    "percentage": 3.1193,
+    "sample": "Outside Hive",
+    "species": "Verminephrobacter_unclassified"
+  },
+  {
+    "genus": "Verminephrobacter",
+    "location": "FORT GREENE",
+    "percentage": 2.9480299999999997,
+    "sample": "Inside Hive",
+    "species": "Verminephrobacter_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "FORT GREENE",
+    "percentage": 1.2331,
+    "sample": "Honey",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "FORT GREENE",
+    "percentage": 0.10730999999999999,
+    "sample": "Outside Hive",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Massilia",
+    "location": "FORT GREENE",
+    "percentage": 0.70012,
+    "sample": "Inside Hive",
+    "species": "Massilia_unclassified"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "FORT GREENE",
+    "percentage": 6.685510000000001,
+    "sample": "Outside Hive",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Enterobacter",
+    "location": "FORT GREENE",
+    "percentage": 17.23649,
+    "sample": "Inside Hive",
+    "species": "Enterobacter_cloacae"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "FORT GREENE",
+    "percentage": 0.7591100000000001,
+    "sample": "Outside Hive",
+    "species": "Escherichia_coli"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "FORT GREENE",
+    "percentage": 2.4069,
+    "sample": "Inside Hive",
+    "species": "Escherichia_coli"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "FORT GREENE",
+    "percentage": 7.3281,
+    "sample": "Outside Hive",
+    "species": "Escherichia_hermannii"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "FORT GREENE",
+    "percentage": 6.021730000000001,
+    "sample": "Inside Hive",
+    "species": "Escherichia_hermannii"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "FORT GREENE",
+    "percentage": 3.4754300000000002,
+    "sample": "Honey",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Escherichia",
+    "location": "FORT GREENE",
+    "percentage": 9.39657,
+    "sample": "Inside Hive",
+    "species": "Escherichia_unclassified"
+  },
+  {
+    "genus": "Providencia",
+    "location": "FORT GREENE",
+    "percentage": 3.28619,
+    "sample": "Honey",
+    "species": "Providencia_unclassified"
+  },
+  {
+    "genus": "Serratia",
+    "location": "FORT GREENE",
+    "percentage": 7.3156300000000005,
+    "sample": "Honey",
+    "species": "Serratia_marcescens"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "FORT GREENE",
+    "percentage": 0.11439,
+    "sample": "Outside Hive",
+    "species": "Acinetobacter_junii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "FORT GREENE",
+    "percentage": 0.9993200000000001,
+    "sample": "Outside Hive",
+    "species": "Acinetobacter_lwoffii"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "FORT GREENE",
+    "percentage": 3.02883,
+    "sample": "Honey",
+    "species": "Acinetobacter_nectaris"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "FORT GREENE",
+    "percentage": 4.39905,
+    "sample": "Outside Hive",
+    "species": "Acinetobacter_radioresistens"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "FORT GREENE",
+    "percentage": 0.06866,
+    "sample": "Outside Hive",
+    "species": "Acinetobacter_schindleri"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "FORT GREENE",
+    "percentage": 50.33167,
+    "sample": "Honey",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "FORT GREENE",
+    "percentage": 7.98382,
+    "sample": "Outside Hive",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Acinetobacter",
+    "location": "FORT GREENE",
+    "percentage": 3.8923400000000004,
+    "sample": "Inside Hive",
+    "species": "Acinetobacter_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "FORT GREENE",
+    "percentage": 13.15064,
+    "sample": "Outside Hive",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "FORT GREENE",
+    "percentage": 17.43445,
+    "sample": "Inside Hive",
+    "species": "Pseudomonas_putida"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "FORT GREENE",
+    "percentage": 11.31204,
+    "sample": "Outside Hive",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "Pseudomonas",
+    "location": "FORT GREENE",
+    "percentage": 23.726589999999998,
+    "sample": "Inside Hive",
+    "species": "Pseudomonas_unclassified"
+  },
+  {
+    "genus": "C2likevirus",
+    "location": "FORT GREENE",
+    "percentage": 0.6207600000000001,
+    "sample": "Honey",
+    "species": "C2likevirus_unclassified"
+  }
+]

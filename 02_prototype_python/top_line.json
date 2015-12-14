@@ -1,0 +1,90 @@
+{
+  "ASTORIA HIVE": {
+    "Bee Debris Solid": {
+      "Bacteria": 100.0
+    },
+    "Iaise Hive 1": {
+      "Viruses": 0.44242,
+      "Bacteria": 99.55758
+    },
+    "Ralph's Hand": {
+      "Bacteria": 100.0
+    },
+    "Bee": {
+      "Bacteria": 100.0
+    },
+    "Honey": {
+      "Viruses": 0.76389,
+      "Bacteria": 99.23611
+    },
+    "Propolis in Solvant": {
+      "Bacteria": 100.0
+    },
+    "Bee Debris Liquid": {
+      "Bacteria": 100.0
+    },
+    "Beeswax": {
+      "Bacteria": 100.0
+    }
+  },
+  "CROWN HEIGHTS - LANGSTROTH": {
+    "Bee Debris Solid": {
+      "Eukaryota": 0.35791999999999996,
+      "Viruses": 51.40095,
+      "Bacteria": 48.24113
+    },
+    "Inside Hive": {
+      "Bacteria": 100.0
+    },
+    "Propolis no solvent": {
+      "Bacteria": 100.0
+    },
+    "Bee": {
+      "Eukaryota": 0.9669700000000001,
+      "Bacteria": 99.03303000000001
+    },
+    "Honey": {
+      "Bacteria": 100.0
+    },
+    "Bee Debris Liquid": {
+      "Bacteria": 100.0
+    }
+  },
+  "CROWN HEIGHTS -TOP BAR": {
+    "Honey": {
+      "Eukaryota": 7.004739999999999,
+      "Bacteria": 92.99526
+    },
+    "Outside Hive": {
+      "Bacteria": 100.0
+    },
+    "Scrapper": {
+      "Viruses": 0.11832999999999999,
+      "Bacteria": 99.88167
+    },
+    "Inside Hive": {
+      "Bacteria": 100.0
+    },
+    "Bee": {
+      "Bacteria": 100.0
+    }
+  },
+  "FORT GREENE": {
+    "Bee Debris Solid": {
+      "Bacteria": 100.0
+    },
+    "Honey": {
+      "Viruses": 0.6207600000000001,
+      "Bacteria": 99.37924
+    },
+    "Outside Hive": {
+      "Bacteria": 100.0
+    },
+    "Inside Hive": {
+      "Bacteria": 100.0
+    },
+    "Bee": {
+      "Bacteria": 100.0
+    }
+  }
+}

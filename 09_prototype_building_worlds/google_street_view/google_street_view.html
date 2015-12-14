@@ -1,0 +1,148 @@
+
+
+<!doctype html>
+<html lang="en">
+	<head>
+		<title>Floating Shiny Knot - Street View Panorama Reflection Mapping</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+
+		<link rel="stylesheet" href="buttons.css" type="text/css" media="screen" title="no title" charset="utf-8">
+		<link href="style.css" rel="stylesheet">
+	</head>
+	<body>
+
+		<div id="container">
+		</div>
+		<div id="options" class="hide">	
+			<div id="map"></div>
+			<div class="block">
+				<form id="map_form">
+					<input type="text" name="address" id="address" />
+					<button type="submit" class="primary button" id="searchButton" >Search</button>
+				</form>
+			</div>
+			<div class="block">
+				<button type="submit" id="myLocationButton" style="width: 148px" class="button">Use my location</button>
+				<button type="submit" id="fullscreenButton" style="width: 148px" class="button">Go fullscreen</button>
+			</div>
+			<div class="block">
+				<button type="submit" id="reflectButton" style="width: 148px" class="button active">Chrome finish</button>
+				<button type="submit" id="refractButton" style="width: 148px" class="button">Glass finish</button>
+			</div>
+			<div class="block" id="status" >
+				<div id="message" ></div>
+				<div id="error" ></div>
+			</div>
+		</div>
+		<div id="preloader" >
+			<div id="bar" ></div>
+		</div>
+		
+		<script src="js/three.min.js"></script>
+		<script src="//maps.google.com/maps/api/js?sensor=false"></script>
+		<script src="js/GSVPano.js"></script>
+		
+		<script type="x-shader/x-vertex" id="vertexShader">
+		
+
+			uniform vec2 uvScale;
+			varying vec2 vUv;
+
+			void main()
+			{
+
+				vUv = uvScale * uv;
+				vec4 mvPosition = modelViewMatrix * vec4( position, 1.0 );
+				gl_Position = projectionMatrix * mvPosition;
+
+			}
+
+
+		// varying vec3 vReflect;
+		// varying vec3 vRefract;
+		
+		// void main() {
+		// 	vec4 mPosition = modelMatrix * vec4( position, 1.0 );
+		// 	vec3 nWorld = normalize( mat3( modelMatrix[0].xyz, modelMatrix[1].xyz, modelMatrix[2].xyz ) * normal );
+		// 	vReflect = normalize( reflect( normalize( mPosition.xyz - cameraPosition ), nWorld ) );
+		// 	vRefract = normalize( refract( normalize( mPosition.xyz - cameraPosition ), nWorld, 0.9 ) );
+		// 	gl_Position = projectionMatrix * modelViewMatrix * vec4( position, 1.0 );
+		// }
+
+		</script>
+		
+		<script type="x-shader/x-vertex" id="fragmentShader">
+		
+
+			uniform float time;
+			uniform vec2 resolution;
+
+			uniform float fogDensity;
+			uniform vec3 fogColor;
+
+			uniform sampler2D texture1;
+			uniform sampler2D texture2;
+
+			varying vec2 vUv;
+
+			void main( void ) {
+
+				vec2 position = -1.0 + 2.0 * vUv;
+
+				vec4 noise = texture2D( texture1, vUv );
+				vec2 T1 = vUv + vec2( 1.5, -1.5 ) * time  *0.02;
+				vec2 T2 = vUv + vec2( -0.5, 2.0 ) * time * 0.01;
+
+				T1.x += noise.x * 2.0;
+				T1.y += noise.y * 2.0;
+				T2.x -= noise.y * 0.2;
+				T2.y += noise.z * 0.2;
+
+				float p = texture2D( texture1, T1 * 2.0 ).a;
+
+				vec4 color = texture2D( texture2, T2 * 2.0 );
+				vec4 temp = color * ( vec4( p, p, p, p ) * 2.0 ) + ( color * color - 0.1 );
+
+				if( temp.r > 1.0 ){ temp.bg += clamp( temp.r - 2.0, 0.0, 100.0 ); }
+				if( temp.g > 1.0 ){ temp.rb += temp.g - 1.0; }
+				if( temp.b > 1.0 ){ temp.rg += temp.b - 1.0; }
+
+				gl_FragColor = temp;
+
+				float depth = gl_FragCoord.z / gl_FragCoord.w;
+				const float LOG2 = 1.442695;
+				float fogFactor = exp2( - fogDensity * fogDensity * depth * depth * LOG2 );
+				fogFactor = 1.0 - clamp( fogFactor, 0.0, 1.0 );
+
+				gl_FragColor = mix( gl_FragColor, vec4( fogColor, gl_FragColor.w ), fogFactor );
+
+			}
+
+
+
+		// uniform float rAmount;
+		// uniform sampler2D texture;
+		// uniform sampler2D scaledTexture;
+		// varying vec3 vReflect;
+		// varying vec3 vRefract;
+
+		// void main(void) {
+		// 	float PI = 3.14159265358979323846264;
+
+		// 	float yaw = .5 - atan( vReflect.z, - vReflect.x ) / ( 2.0 * PI );
+		// 	float pitch = .5 - asin( vReflect.y ) / PI;
+		// 	vec3 color = texture2D( scaledTexture, vec2( yaw, 1. - pitch ) ).rgb * ( 1.0 - rAmount );
+
+		// 	yaw = .5 - atan( vRefract.z, - vRefract.x ) / ( 2.0 * PI );
+		// 	pitch = .5 - asin( vRefract.y ) ; // PI;
+		// 	color += texture2D( texture, vec2( yaw, 1. - pitch ) ).rgb * rAmount;
+
+		// 	gl_FragColor = vec4( color, 1.0 );
+		// }
+
+		</script>
+		<script src="google.js"></script>
+		
+	</body>
+</html>

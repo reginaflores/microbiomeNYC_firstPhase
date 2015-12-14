@@ -1,0 +1,54 @@
+{
+  "ASTORIA HIVE": [
+    "Spiroplasma_melliferum",
+    "Bradyrhizobium_sp_DFCI_1",
+    "Pantoea_agglomerans",
+    "Pseudomonas_aeruginosa",
+    "Rothia_dentocariosa",
+    "Plectrovirus_unclassified",
+    "Pseudomonas_amygdali",
+    "Erwinia_tasmaniensis",
+    "Pantoea_ananatis",
+    "Microcoleus_unclassified",
+    "Staphylococcus_epidermidis",
+    "Granulicatella_unclassified",
+    "Influenza_A_virus",
+    "Neisseria_unclassified",
+    "Pantoea_vagans"
+  ],
+  "CROWN HEIGHTS - LANGSTROTH": [
+    "Nosema_ceranae",
+    "Fusarium_unclassified",
+    "Enterobacteria_phage_CC31",
+    "Methylophilus_unclassified",
+    "Cronobacter_phage_vB_CsaM_GAP161",
+    "Methylophilus_methylotrophus",
+    "Carnobacterium_maltaromaticum",
+    "Enhydrobacter_aerosaccus",
+    "Deinococcus_aquatilis",
+    "Enterococcus_casseliflavus",
+    "Roseomonas_unclassified",
+    "Riemerella_unclassified",
+    "Raoultella_ornithinolytica",
+    "Enterobacter_asburiae",
+    "Bordetella_unclassified",
+    "Sphingopyxis_unclassified"
+  ],
+  "CROWN HEIGHTS -TOP BAR": [
+    "Stenotrophomonas_maltophilia",
+    "Brevundimonas_diminuta",
+    "Human_adenovirus_D",
+    "Bacillus_megaterium",
+    "Zygosaccharomyces_rouxii",
+    "Acinetobacter_pittii_calcoaceticus_nosocomialis",
+    "Leifsonia_unclassified",
+    "Asticcacaulis_unclassified",
+    "Sphingobacterium_unclassified"
+  ],
+  "FORT GREENE": [
+    "C2likevirus_unclassified",
+    "Providencia_unclassified",
+    "Acinetobacter_lwoffii",
+    "Fructobacillus_fructosus"
+  ]
+}

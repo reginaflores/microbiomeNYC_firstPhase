@@ -1,0 +1,2142 @@
+{
+  "name": "Bee ASTORIA HIVE",
+  "children": [
+    {
+      "name": "k__Bacteria",
+      "children": [
+        {
+          "name": "p__Acidobacteria",
+          "children": [
+            {
+              "name": "c__Acidobacteriia",
+              "children": [
+                {
+                  "name": "o__Acidobacteriales",
+                  "children": [
+                    {
+                      "name": "f__Acidobacteriaceae",
+                      "children": [
+                        {
+                          "name": "g__Acidobacteriaceae_unclassified",
+                          "children": [
+                            
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Granulicella",
+                          "children": [
+                            {
+                              "name": "s__Granulicella_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            }
+          ],
+          "size": 0
+        },
+        {
+          "name": "p__Actinobacteria",
+          "children": [
+            {
+              "name": "c__Actinobacteria",
+              "children": [
+                {
+                  "name": "o__Actinomycetales",
+                  "children": [
+                    {
+                      "name": "f__Dermatophilaceae",
+                      "children": [
+                        {
+                          "name": "g__Dermatophilaceae_unclassified",
+                          "children": [
+                            
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Microbacteriaceae",
+                      "children": [
+                        {
+                          "name": "g__Agromyces",
+                          "children": [
+                            {
+                              "name": "s__Agromyces_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Curtobacterium",
+                          "children": [
+                            {
+                              "name": "s__Curtobacterium_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Leifsonia",
+                          "children": [
+                            {
+                              "name": "s__Leifsonia_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Micrococcaceae",
+                      "children": [
+                        {
+                          "name": "g__Rothia",
+                          "children": [
+                            {
+                              "name": "s__Rothia_dentocariosa",
+                              "children": [
+                                {
+                                  "name": "t__Rothia_dentocariosa_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Rothia_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Nocardioidaceae",
+                      "children": [
+                        {
+                          "name": "g__Nocardioides",
+                          "children": [
+                            {
+                              "name": "s__Nocardioides_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Propionibacteriaceae",
+                      "children": [
+                        {
+                          "name": "g__Propionibacteriaceae_unclassified",
+                          "children": [
+                            
+                          ],
+                          "size": 12.10275
+                        },
+                        {
+                          "name": "g__Propionibacterium",
+                          "children": [
+                            {
+                              "name": "s__Propionibacterium_acnes",
+                              "children": [
+                                {
+                                  "name": "t__Propionibacterium_acnes_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 8.37181
+                                }
+                              ],
+                              "size": 8.37181
+                            }
+                          ],
+                          "size": 8.37181
+                        }
+                      ],
+                      "size": 20.47455
+                    }
+                  ],
+                  "size": 20.47455
+                },
+                {
+                  "name": "o__Bifidobacteriales",
+                  "children": [
+                    {
+                      "name": "f__Bifidobacteriaceae",
+                      "children": [
+                        {
+                          "name": "g__Bifidobacterium",
+                          "children": [
+                            {
+                              "name": "s__Bifidobacterium_asteroides",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000304215",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 1.91924
+                                }
+                              ],
+                              "size": 1.91924
+                            }
+                          ],
+                          "size": 1.91924
+                        }
+                      ],
+                      "size": 1.91924
+                    }
+                  ],
+                  "size": 1.91924
+                },
+                {
+                  "name": "o__Solirubrobacterales",
+                  "children": [
+                    {
+                      "name": "f__Solirubrobacterales_unclassified",
+                      "children": [
+                        
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 22.39379
+            }
+          ],
+          "size": 22.39379
+        },
+        {
+          "name": "p__Bacteroidetes",
+          "children": [
+            {
+              "name": "c__Bacteroidia",
+              "children": [
+                {
+                  "name": "o__Bacteroidales",
+                  "children": [
+                    {
+                      "name": "f__Prevotellaceae",
+                      "children": [
+                        {
+                          "name": "g__Prevotella",
+                          "children": [
+                            {
+                              "name": "s__Prevotella_disiens",
+                              "children": [
+                                {
+                                  "name": "t__Prevotella_disiens_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            },
+            {
+              "name": "c__Cytophagia",
+              "children": [
+                {
+                  "name": "o__Cytophagales",
+                  "children": [
+                    {
+                      "name": "f__Cytophagaceae",
+                      "children": [
+                        {
+                          "name": "g__Hymenobacter",
+                          "children": [
+                            {
+                              "name": "s__Hymenobacter_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            },
+            {
+              "name": "c__Flavobacteriia",
+              "children": [
+                {
+                  "name": "o__Flavobacteriales",
+                  "children": [
+                    {
+                      "name": "f__Flavobacteriaceae",
+                      "children": [
+                        {
+                          "name": "g__Chryseobacterium",
+                          "children": [
+                            {
+                              "name": "s__Chryseobacterium_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Riemerella",
+                          "children": [
+                            {
+                              "name": "s__Riemerella_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            },
+            {
+              "name": "c__Sphingobacteriia",
+              "children": [
+                {
+                  "name": "o__Sphingobacteriales",
+                  "children": [
+                    {
+                      "name": "f__Sphingobacteriaceae",
+                      "children": [
+                        {
+                          "name": "g__Pedobacter",
+                          "children": [
+                            {
+                              "name": "s__Pedobacter_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Sphingobacterium",
+                          "children": [
+                            {
+                              "name": "s__Sphingobacterium_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            }
+          ],
+          "size": 0
+        },
+        {
+          "name": "p__Cyanobacteria",
+          "children": [
+            {
+              "name": "c__Cyanobacteria_noname",
+              "children": [
+                {
+                  "name": "o__Oscillatoriales",
+                  "children": [
+                    {
+                      "name": "f__Oscillatoriales_noname",
+                      "children": [
+                        {
+                          "name": "g__Microcoleus",
+                          "children": [
+                            {
+                              "name": "s__Microcoleus_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 1.18704
+                            }
+                          ],
+                          "size": 1.18704
+                        }
+                      ],
+                      "size": 1.18704
+                    }
+                  ],
+                  "size": 1.18704
+                }
+              ],
+              "size": 1.18704
+            }
+          ],
+          "size": 1.18704
+        },
+        {
+          "name": "p__Deinococcus_Thermus",
+          "children": [
+            {
+              "name": "c__Deinococci",
+              "children": [
+                {
+                  "name": "o__Deinococcales",
+                  "children": [
+                    {
+                      "name": "f__Deinococcaceae",
+                      "children": [
+                        {
+                          "name": "g__Deinococcus",
+                          "children": [
+                            {
+                              "name": "s__Deinococcus_aquatilis",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000378445",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Deinococcus_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Deinococcales_unclassified",
+                      "children": [
+                        
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            }
+          ],
+          "size": 0
+        },
+        {
+          "name": "p__Firmicutes",
+          "children": [
+            {
+              "name": "c__Bacilli",
+              "children": [
+                {
+                  "name": "o__Bacillales",
+                  "children": [
+                    {
+                      "name": "f__Bacillaceae",
+                      "children": [
+                        {
+                          "name": "g__Bacillus",
+                          "children": [
+                            {
+                              "name": "s__Bacillus_megaterium",
+                              "children": [
+                                {
+                                  "name": "t__Bacillus_megaterium_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Planococcaceae",
+                      "children": [
+                        {
+                          "name": "g__Sporosarcina",
+                          "children": [
+                            {
+                              "name": "s__Sporosarcina_newyorkensis",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000220335",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Staphylococcaceae",
+                      "children": [
+                        {
+                          "name": "g__Staphylococcus",
+                          "children": [
+                            {
+                              "name": "s__Staphylococcus_epidermidis",
+                              "children": [
+                                {
+                                  "name": "t__Staphylococcus_epidermidis_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                },
+                {
+                  "name": "o__Lactobacillales",
+                  "children": [
+                    {
+                      "name": "f__Carnobacteriaceae",
+                      "children": [
+                        {
+                          "name": "g__Carnobacterium",
+                          "children": [
+                            {
+                              "name": "s__Carnobacterium_maltaromaticum",
+                              "children": [
+                                {
+                                  "name": "t__Carnobacterium_maltaromaticum_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Granulicatella",
+                          "children": [
+                            {
+                              "name": "s__Granulicatella_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Enterococcaceae",
+                      "children": [
+                        {
+                          "name": "g__Enterococcus",
+                          "children": [
+                            {
+                              "name": "s__Enterococcus_casseliflavus",
+                              "children": [
+                                {
+                                  "name": "t__Enterococcus_casseliflavus_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Leuconostocaceae",
+                      "children": [
+                        {
+                          "name": "g__Fructobacillus",
+                          "children": [
+                            {
+                              "name": "s__Fructobacillus_fructosus",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000185045",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Streptococcaceae",
+                      "children": [
+                        {
+                          "name": "g__Lactococcus",
+                          "children": [
+                            {
+                              "name": "s__Lactococcus_lactis",
+                              "children": [
+                                {
+                                  "name": "t__Lactococcus_lactis_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Streptococcus",
+                          "children": [
+                            {
+                              "name": "s__Streptococcus_mitis_oralis_pneumoniae",
+                              "children": [
+                                {
+                                  "name": "t__Streptococcus_mitis_oralis_pneumoniae_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            },
+            {
+              "name": "c__Clostridia",
+              "children": [
+                {
+                  "name": "o__Clostridiales",
+                  "children": [
+                    {
+                      "name": "f__Clostridiales_Family_XI_Incertae_Sedis",
+                      "children": [
+                        {
+                          "name": "g__Finegoldia",
+                          "children": [
+                            {
+                              "name": "s__Finegoldia_magna",
+                              "children": [
+                                {
+                                  "name": "t__Finegoldia_magna_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            }
+          ],
+          "size": 0
+        },
+        {
+          "name": "p__Proteobacteria",
+          "children": [
+            {
+              "name": "c__Alphaproteobacteria",
+              "children": [
+                {
+                  "name": "o__Caulobacterales",
+                  "children": [
+                    {
+                      "name": "f__Caulobacteraceae",
+                      "children": [
+                        {
+                          "name": "g__Asticcacaulis",
+                          "children": [
+                            {
+                              "name": "s__Asticcacaulis_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Brevundimonas",
+                          "children": [
+                            {
+                              "name": "s__Brevundimonas_diminuta",
+                              "children": [
+                                {
+                                  "name": "t__Brevundimonas_diminuta_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Brevundimonas_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Caulobacter",
+                          "children": [
+                            {
+                              "name": "s__Caulobacter_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Caulobacter_vibrioides",
+                              "children": [
+                                {
+                                  "name": "t__Caulobacter_vibrioides_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 1.11693
+                                }
+                              ],
+                              "size": 1.11693
+                            }
+                          ],
+                          "size": 1.11693
+                        }
+                      ],
+                      "size": 1.11693
+                    }
+                  ],
+                  "size": 1.11693
+                },
+                {
+                  "name": "o__Rhizobiales",
+                  "children": [
+                    {
+                      "name": "f__Bartonellaceae",
+                      "children": [
+                        {
+                          "name": "g__Bartonella",
+                          "children": [
+                            {
+                              "name": "s__Bartonella_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Bradyrhizobiaceae",
+                      "children": [
+                        {
+                          "name": "g__Bradyrhizobium",
+                          "children": [
+                            {
+                              "name": "s__Bradyrhizobium_sp_DFCI_1",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000465325",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 38.33152
+                                }
+                              ],
+                              "size": 38.33152
+                            }
+                          ],
+                          "size": 38.33152
+                        }
+                      ],
+                      "size": 38.33152
+                    },
+                    {
+                      "name": "f__Hyphomicrobiaceae",
+                      "children": [
+                        {
+                          "name": "g__Hyphomicrobiaceae_unclassified",
+                          "children": [
+                            
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Phyllobacteriaceae",
+                      "children": [
+                        {
+                          "name": "g__Mesorhizobium",
+                          "children": [
+                            {
+                              "name": "s__Mesorhizobium_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 2.17638
+                            }
+                          ],
+                          "size": 2.17638
+                        }
+                      ],
+                      "size": 2.17638
+                    }
+                  ],
+                  "size": 40.5079
+                },
+                {
+                  "name": "o__Rhodospirillales",
+                  "children": [
+                    {
+                      "name": "f__Acetobacteraceae",
+                      "children": [
+                        {
+                          "name": "g__Roseomonas",
+                          "children": [
+                            {
+                              "name": "s__Roseomonas_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                },
+                {
+                  "name": "o__Rickettsiales",
+                  "children": [
+                    {
+                      "name": "f__Rickettsiaceae",
+                      "children": [
+                        {
+                          "name": "g__Rickettsia",
+                          "children": [
+                            {
+                              "name": "s__Rickettsia_felis",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000012145",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Rickettsia_parkeri",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000284195",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                },
+                {
+                  "name": "o__Sphingomonadales",
+                  "children": [
+                    {
+                      "name": "f__Sphingomonadaceae",
+                      "children": [
+                        {
+                          "name": "g__Sphingobium",
+                          "children": [
+                            {
+                              "name": "s__Sphingobium_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Sphingomonas",
+                          "children": [
+                            {
+                              "name": "s__Sphingomonas_sp_S17",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000211795",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Sphingopyxis",
+                          "children": [
+                            {
+                              "name": "s__Sphingopyxis_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 41.62483
+            },
+            {
+              "name": "c__Betaproteobacteria",
+              "children": [
+                {
+                  "name": "o__Burkholderiales",
+                  "children": [
+                    {
+                      "name": "f__Alcaligenaceae",
+                      "children": [
+                        {
+                          "name": "g__Bordetella",
+                          "children": [
+                            {
+                              "name": "s__Bordetella_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Burkholderiaceae",
+                      "children": [
+                        {
+                          "name": "g__Burkholderia",
+                          "children": [
+                            {
+                              "name": "s__Burkholderia_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Burkholderiales_noname",
+                      "children": [
+                        {
+                          "name": "g__Thiomonas",
+                          "children": [
+                            {
+                              "name": "s__Thiomonas_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Comamonadaceae",
+                      "children": [
+                        {
+                          "name": "g__Acidovorax",
+                          "children": [
+                            {
+                              "name": "s__Acidovorax_ebreus",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000022305",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 5.26615
+                                }
+                              ],
+                              "size": 5.26615
+                            }
+                          ],
+                          "size": 5.26615
+                        },
+                        {
+                          "name": "g__Alicycliphilus",
+                          "children": [
+                            {
+                              "name": "s__Alicycliphilus_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 4.16293
+                            }
+                          ],
+                          "size": 4.16293
+                        },
+                        {
+                          "name": "g__Comamonas",
+                          "children": [
+                            {
+                              "name": "s__Comamonas_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Limnohabitans",
+                          "children": [
+                            {
+                              "name": "s__Limnohabitans_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0.52225
+                            }
+                          ],
+                          "size": 0.52225
+                        },
+                        {
+                          "name": "g__Polaromonas",
+                          "children": [
+                            {
+                              "name": "s__Polaromonas_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 1.12522
+                            }
+                          ],
+                          "size": 1.12522
+                        },
+                        {
+                          "name": "g__Variovorax",
+                          "children": [
+                            {
+                              "name": "s__Variovorax_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0.48031
+                            }
+                          ],
+                          "size": 0.48031
+                        },
+                        {
+                          "name": "g__Verminephrobacter",
+                          "children": [
+                            {
+                              "name": "s__Verminephrobacter_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 3.885
+                            }
+                          ],
+                          "size": 3.885
+                        }
+                      ],
+                      "size": 15.44186
+                    },
+                    {
+                      "name": "f__Oxalobacteraceae",
+                      "children": [
+                        {
+                          "name": "g__Janthinobacterium",
+                          "children": [
+                            {
+                              "name": "s__Janthinobacterium_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Massilia",
+                          "children": [
+                            {
+                              "name": "s__Massilia_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 15.44186
+                },
+                {
+                  "name": "o__Methylophilales",
+                  "children": [
+                    {
+                      "name": "f__Methylophilaceae",
+                      "children": [
+                        {
+                          "name": "g__Methylophilus",
+                          "children": [
+                            {
+                              "name": "s__Methylophilus_methylotrophus",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000378225",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Methylophilus_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                },
+                {
+                  "name": "o__Neisseriales",
+                  "children": [
+                    {
+                      "name": "f__Neisseriaceae",
+                      "children": [
+                        {
+                          "name": "g__Neisseria",
+                          "children": [
+                            {
+                              "name": "s__Neisseria_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 15.44186
+            },
+            {
+              "name": "c__Gammaproteobacteria",
+              "children": [
+                {
+                  "name": "o__Enterobacteriales",
+                  "children": [
+                    {
+                      "name": "f__Enterobacteriaceae",
+                      "children": [
+                        {
+                          "name": "g__Enterobacter",
+                          "children": [
+                            {
+                              "name": "s__Enterobacter_asburiae",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000224675",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Enterobacter_cloacae",
+                              "children": [
+                                {
+                                  "name": "t__Enterobacter_cloacae_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0.71217
+                                }
+                              ],
+                              "size": 0.71217
+                            }
+                          ],
+                          "size": 0.71217
+                        },
+                        {
+                          "name": "g__Erwinia",
+                          "children": [
+                            {
+                              "name": "s__Erwinia_tasmaniensis",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000026185",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Escherichia",
+                          "children": [
+                            {
+                              "name": "s__Escherichia_coli",
+                              "children": [
+                                {
+                                  "name": "t__Escherichia_coli_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Escherichia_hermannii",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000248015",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Escherichia_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Klebsiella",
+                          "children": [
+                            {
+                              "name": "s__Klebsiella_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Pantoea",
+                          "children": [
+                            {
+                              "name": "s__Pantoea_agglomerans",
+                              "children": [
+                                {
+                                  "name": "t__Pantoea_agglomerans_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Pantoea_ananatis",
+                              "children": [
+                                {
+                                  "name": "t__Pantoea_ananatis_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Pantoea_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Pantoea_vagans",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000148935",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Providencia",
+                          "children": [
+                            {
+                              "name": "s__Providencia_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Raoultella",
+                          "children": [
+                            {
+                              "name": "s__Raoultella_ornithinolytica",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000367425",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        },
+                        {
+                          "name": "g__Serratia",
+                          "children": [
+                            {
+                              "name": "s__Serratia_marcescens",
+                              "children": [
+                                {
+                                  "name": "t__Serratia_marcescens_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0.71217
+                    }
+                  ],
+                  "size": 0.71217
+                },
+                {
+                  "name": "o__Pseudomonadales",
+                  "children": [
+                    {
+                      "name": "f__Moraxellaceae",
+                      "children": [
+                        {
+                          "name": "g__Acinetobacter",
+                          "children": [
+                            {
+                              "name": "s__Acinetobacter_johnsonii",
+                              "children": [
+                                {
+                                  "name": "t__Acinetobacter_johnsonii_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Acinetobacter_junii",
+                              "children": [
+                                {
+                                  "name": "t__Acinetobacter_junii_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 4.15741
+                                }
+                              ],
+                              "size": 4.15741
+                            },
+                            {
+                              "name": "s__Acinetobacter_lwoffii",
+                              "children": [
+                                {
+                                  "name": "t__Acinetobacter_lwoffii_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Acinetobacter_nectaris",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000488215",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Acinetobacter_pittii_calcoaceticus_nosocomialis",
+                              "children": [
+                                {
+                                  "name": "t__Acinetobacter_pittii_calcoaceticus_nosocomialis_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Acinetobacter_radioresistens",
+                              "children": [
+                                {
+                                  "name": "t__Acinetobacter_radioresistens_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Acinetobacter_schindleri",
+                              "children": [
+                                {
+                                  "name": "t__Acinetobacter_schindleri_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Acinetobacter_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 5.54536
+                            }
+                          ],
+                          "size": 9.70276
+                        },
+                        {
+                          "name": "g__Enhydrobacter",
+                          "children": [
+                            {
+                              "name": "s__Enhydrobacter_aerosaccus",
+                              "children": [
+                                {
+                                  "name": "t__GCF_000175915",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 9.70276
+                    },
+                    {
+                      "name": "f__Pseudomonadaceae",
+                      "children": [
+                        {
+                          "name": "g__Pseudomonas",
+                          "children": [
+                            {
+                              "name": "s__Pseudomonas_aeruginosa",
+                              "children": [
+                                {
+                                  "name": "t__Pseudomonas_aeruginosa_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Pseudomonas_amygdali",
+                              "children": [
+                                {
+                                  "name": "t__Pseudomonas_amygdali_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Pseudomonas_fragi",
+                              "children": [
+                                {
+                                  "name": "t__Pseudomonas_fragi_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Pseudomonas_mandelii",
+                              "children": [
+                                {
+                                  "name": "t__Pseudomonas_mandelii_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Pseudomonas_putida",
+                              "children": [
+                                {
+                                  "name": "t__Pseudomonas_putida_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 7.47301
+                                }
+                              ],
+                              "size": 7.47301
+                            },
+                            {
+                              "name": "s__Pseudomonas_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 1.46453
+                            }
+                          ],
+                          "size": 8.93754
+                        }
+                      ],
+                      "size": 8.93754
+                    }
+                  ],
+                  "size": 18.6403
+                },
+                {
+                  "name": "o__Xanthomonadales",
+                  "children": [
+                    {
+                      "name": "f__Xanthomonadaceae",
+                      "children": [
+                        {
+                          "name": "g__Stenotrophomonas",
+                          "children": [
+                            {
+                              "name": "s__Stenotrophomonas_maltophilia",
+                              "children": [
+                                {
+                                  "name": "t__Stenotrophomonas_maltophilia_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 19.35247
+            }
+          ],
+          "size": 76.41916
+        },
+        {
+          "name": "p__Tenericutes",
+          "children": [
+            {
+              "name": "c__Mollicutes",
+              "children": [
+                {
+                  "name": "o__Entomoplasmatales",
+                  "children": [
+                    {
+                      "name": "f__Spiroplasmataceae",
+                      "children": [
+                        {
+                          "name": "g__Spiroplasma",
+                          "children": [
+                            {
+                              "name": "s__Spiroplasma_melliferum",
+                              "children": [
+                                {
+                                  "name": "t__Spiroplasma_melliferum_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            }
+          ],
+          "size": 0
+        }
+      ],
+      "size": 100
+    },
+    {
+      "name": "k__Eukaryota",
+      "children": [
+        {
+          "name": "p__Ascomycota",
+          "children": [
+            {
+              "name": "c__Saccharomycetes",
+              "children": [
+                {
+                  "name": "o__Saccharomycetales",
+                  "children": [
+                    {
+                      "name": "f__Saccharomycetaceae",
+                      "children": [
+                        {
+                          "name": "g__Zygosaccharomyces",
+                          "children": [
+                            {
+                              "name": "s__Zygosaccharomyces_rouxii",
+                              "children": [
+                                {
+                                  "name": "t__GCA_000026365",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            },
+            {
+              "name": "c__Sordariomycetes",
+              "children": [
+                {
+                  "name": "o__Hypocreales",
+                  "children": [
+                    {
+                      "name": "f__Nectriaceae",
+                      "children": [
+                        {
+                          "name": "g__Fusarium",
+                          "children": [
+                            {
+                              "name": "s__Fusarium_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            }
+          ],
+          "size": 0
+        },
+        {
+          "name": "p__Microsporidia",
+          "children": [
+            {
+              "name": "c__Microsporidia_noname",
+              "children": [
+                {
+                  "name": "o__Microsporidia_noname",
+                  "children": [
+                    {
+                      "name": "f__Nosematidae",
+                      "children": [
+                        {
+                          "name": "g__Nosema",
+                          "children": [
+                            {
+                              "name": "s__Nosema_ceranae",
+                              "children": [
+                                {
+                                  "name": "t__GCA_000182985",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            }
+          ],
+          "size": 0
+        }
+      ],
+      "size": 0
+    },
+    {
+      "name": "k__Viruses",
+      "children": [
+        {
+          "name": "p__Viruses_noname",
+          "children": [
+            {
+              "name": "c__Viruses_noname",
+              "children": [
+                {
+                  "name": "o__Caudovirales",
+                  "children": [
+                    {
+                      "name": "f__Myoviridae",
+                      "children": [
+                        {
+                          "name": "g__T4likevirus",
+                          "children": [
+                            {
+                              "name": "s__Cronobacter_phage_vB_CsaM_GAP161",
+                              "children": [
+                                {
+                                  "name": "t__PRJNA179412",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            },
+                            {
+                              "name": "s__Enterobacteria_phage_CC31",
+                              "children": [
+                                {
+                                  "name": "t__PRJNA60119",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Siphoviridae",
+                      "children": [
+                        {
+                          "name": "g__C2likevirus",
+                          "children": [
+                            {
+                              "name": "s__C2likevirus_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                },
+                {
+                  "name": "o__Viruses_noname",
+                  "children": [
+                    {
+                      "name": "f__Adenoviridae",
+                      "children": [
+                        {
+                          "name": "g__Mastadenovirus",
+                          "children": [
+                            {
+                              "name": "s__Human_adenovirus_D",
+                              "children": [
+                                {
+                                  "name": "t__Human_adenovirus_D_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Inoviridae",
+                      "children": [
+                        {
+                          "name": "g__Plectrovirus",
+                          "children": [
+                            {
+                              "name": "s__Plectrovirus_unclassified",
+                              "children": [
+                                
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    },
+                    {
+                      "name": "f__Orthomyxoviridae",
+                      "children": [
+                        {
+                          "name": "g__Influenzavirus_A",
+                          "children": [
+                            {
+                              "name": "s__Influenza_A_virus",
+                              "children": [
+                                {
+                                  "name": "t__Influenza_A_virus_unclassified",
+                                  "children": [
+                                    
+                                  ],
+                                  "size": 0
+                                }
+                              ],
+                              "size": 0
+                            }
+                          ],
+                          "size": 0
+                        }
+                      ],
+                      "size": 0
+                    }
+                  ],
+                  "size": 0
+                }
+              ],
+              "size": 0
+            }
+          ],
+          "size": 0
+        }
+      ],
+      "size": 0
+    }
+  ]
+}

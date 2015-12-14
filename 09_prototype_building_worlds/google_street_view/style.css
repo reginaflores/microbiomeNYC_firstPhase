@@ -1,0 +1,129 @@
+html {
+	height: 100%;
+}
+body {
+	margin: 0;
+	padding: 0;
+	background: #000000;
+	color: #ffffff;
+	font-family: sans-serif;
+	font-size: 13px;
+	line-height: 20px;
+	height: 100%;
+	overflow: hidden
+}
+#container {
+	position: absolute;
+	left: 0;
+	top: 0;
+	right: 0;
+	bottom: 0;
+}
+a {
+	color: #fff;
+	text-decoration: none;
+	border-bottom: 1px dotted #fff;
+}
+a:hover {
+	border-bottom: 1px solid #fff
+}
+h1{ 
+	font: 24px Georgia; 
+	font-weight: bold;
+	margin: 0 0 .5em 0;
+}
+h2{ 
+	font: 16px Georgia; 
+	margin: 0 0 .5em 0;
+}
+.hide{
+	opacity: 1;
+	-webkit-transition: opacity .5s ease-out;
+	-moz-transition: opacity .5s ease-out;
+	-o-transition: opacity .5s ease-out;
+}
+#title {
+	position: absolute;
+	top: 20px;
+	width: 300px;
+	left: 20px;
+	background-color: rgba(0,0,0,0.2);
+	border-radius: 3px;
+	padding: 10px;
+	overflow: auto;
+}
+#options{
+	position: absolute;
+	top: 20px;
+	width: 300px;
+	right: 20px;
+	background-color: rgba(0,0,0,0.2);
+	border-radius: 3px;
+	padding: 10px;
+	overflow: hidden;
+}
+#map{ 
+	width: 300px; 
+	height: 200px; 
+	z-index: 100; 
+	-webkit-box-shadow: 0px 0px 3px 3px rgba( 73, 73, 73, .2 );
+	-moz-box-shadow: 0px 0px 3px 3px rgba( 73, 73, 73, .2 );
+	-o-box-shadow: 0px 0px 3px 3px rgba( 73, 73, 73, .2 );
+	box-shadow: 0px 0px 3px 3px rgba( 73, 73, 73, .2 );	
+}
+.button{ 
+	font-size: 11px 
+}
+#pano_form button{
+	float: left 
+}
+#map_form input{ 
+	background: rgba( 255,255,255,.5 ) url( search.png ) no-repeat 5px 50%; 
+	padding-left: 25px; 
+	width: 185px; 
+	height: 26px; 
+	border: 1px solid #444; 
+	margin-top: 2px
+}
+#map_form input:focus{ 
+	background-color: rgba( 255,255,255,.85 ); 
+	border: 1px solid black 
+}
+#map_form button{ 
+	width: 80px; 
+	float: right 
+}
+#preloader{
+	pointer-events: none;
+	width: 306px;
+	height: 36px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -153px;
+	margin-top: -18px;
+	background-color: rgba(255,255,255,0.8);
+	border-radius: 3px;
+	-webkit-transition: opacity 1s ease-out;
+	-moz-transition: opacity 1s ease-out;
+	-o-transition: opacity 1s ease-out;
+}
+#bar{
+	pointer-events: none;
+	height: 30px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	margin-left: -150px;
+	margin-top: -15px;
+	background-color: rgba(0,0,0,0.8);
+	border-radius: 3px;
+}
+.block{ 
+	position: relative;
+	line-height: 2.5em;
+	padding: 0;
+	margin: 5px 0 0 0;
+	display: block;
+}
+#error, #message{ line-height: 1.4em; margin-bottom: .5em }
